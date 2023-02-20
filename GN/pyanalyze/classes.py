@@ -34,7 +34,7 @@ SCANNERS = {"GE":["Discovery 690",
                     "Biograph TruePoint"]
 }
 
-REF_FILE = pd.read_csv("D:/Hoffman/GN/MasterRefDF.csv")
+REF_FILE = pd.read_csv("D:/Hoffman/GN/Data/MasterRefDF.csv")
 
 def LoadImage(filename):
     
