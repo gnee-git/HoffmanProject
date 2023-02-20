@@ -1,0 +1,195 @@
+Path,PET/CT,Contains 6 Frames?,Scanner,Skull,Activity,Standardised
+D:/Hoffman/_Aberdeen/IMANOVA_BRAIN_NO_SKULL/ARI PARAMS/,P,TRUE,,FALSE,,FALSE
+D:/Hoffman/_Aberdeen/IMANOVA_BRAIN_NO_SKULL/IMANOVA PARAMS/,P,TRUE,,FALSE,,TRUE
+D:/Hoffman/_Aberdeen/IMANOVA_BRAIN_NO_SKULL/WB Standard/,C,FALSE,,FALSE,,FALSE
+D:/Hoffman/_Aberdeen/IMANOVA_BRAIN+SKULL/ARI PARAMS/,P,TRUE,,TRUE,,FALSE
+D:/Hoffman/_Aberdeen/IMANOVA_BRAIN+SKULL/IMANOVA PARAMS/,P,TRUE,,TRUE,,TRUE
+D:/Hoffman/_Aberdeen/IMANOVA_BRAIN+SKULL/WB Standard/,C,FALSE,,TRUE,,FALSE
+D:/Hoffman/_Belfast/Local/Brain Standard 1.25mm/,C,FALSE,,FALSE,,FALSE
+D:/Hoffman/_Belfast/Local/Hoffmann Clinical/,P,TRUE,,FALSE,,FALSE
+D:/Hoffman/_Belfast/Local/Hoffmann summed/,P,FALSE,,FALSE,,FALSE
+D:/Hoffman/_Belfast/Local/ISGARS/0,P,TRUE,,FALSE,,FALSE
+D:/Hoffman/_Belfast/Standard/Brain 2.5mm interval/,C,FALSE,,FALSE,,FALSE
+D:/Hoffman/_Belfast/Standard/Hoffmann std clinical/,P,FALSE,,FALSE,,TRUE
+D:/Hoffman/_Belfast/Standard/Hoffmann summed clinical/,P,FALSE,,FALSE,,FALSE
+D:/Hoffman/_Belfast/Standard/Hoffmann summed std/,P,FALSE,,FALSE,,FALSE
+D:/Hoffman/_Belfast/Standard/ISGARS/0,P,TRUE,,FALSE,,TRUE
+D:/Hoffman/_Cambridge/ISGARS/NoSkull/0-5 MIN/,P,FALSE,,FALSE,,
+D:/Hoffman/_Cambridge/ISGARS/NoSkull/10-15 MINS/,P,FALSE,,FALSE,,
+D:/Hoffman/_Cambridge/ISGARS/NoSkull/15-20 MINS/,P,FALSE,,FALSE,,
+D:/Hoffman/_Cambridge/ISGARS/NoSkull/20-25 MINS/,P,FALSE,,FALSE,,
+D:/Hoffman/_Cambridge/ISGARS/NoSkull/25-30 MINS/,P,FALSE,,FALSE,,
+D:/Hoffman/_Cambridge/ISGARS/NoSkull/5-10 MIN/,P,FALSE,,FALSE,,
+"D:/Hoffman/_Cambridge/ISGARS/NoSkull/VPHD 4.0 (3,18)/",P,FALSE,,FALSE,,FALSE
+"D:/Hoffman/_Cambridge/ISGARS/NoSkull/VPHD-S 2.0 (24,3)/",P,FALSE,,FALSE,,TRUE
+D:/Hoffman/_Cambridge/ISGARS/Skull/0-5 MINS/,P,FALSE,,TRUE,,
+D:/Hoffman/_Cambridge/ISGARS/Skull/10-15 MINS/,P,FALSE,,TRUE,,
+D:/Hoffman/_Cambridge/ISGARS/Skull/15-20 MINS/,P,FALSE,,TRUE,,
+D:/Hoffman/_Cambridge/ISGARS/Skull/20-25 MINS/,P,FALSE,,TRUE,,
+D:/Hoffman/_Cambridge/ISGARS/Skull/25-30 MINS/,P,FALSE,,TRUE,,
+D:/Hoffman/_Cambridge/ISGARS/Skull/5-10 MINS/,P,FALSE,,TRUE,,
+"D:/Hoffman/_Cambridge/ISGARS/Skull/VPHD 4.0 (3,18)/",P,FALSE,,TRUE,,FALSE
+"D:/Hoffman/_Cambridge/ISGARS/Skull/VPHD-S 2.0 (24,3)/",P,FALSE,,TRUE,,TRUE
+D:/Hoffman/_Cambridge/NoSkull/0-5 MIN/,P,FALSE,,FALSE,,
+D:/Hoffman/_Cambridge/NoSkull/10-15 MINS/,P,FALSE,,FALSE,,
+D:/Hoffman/_Cambridge/NoSkull/15-20 MINS/,P,FALSE,,FALSE,,
+D:/Hoffman/_Cambridge/NoSkull/20-25 MINS/,P,FALSE,,FALSE,,
+D:/Hoffman/_Cambridge/NoSkull/25-30 MINS/,P,FALSE,,FALSE,,
+D:/Hoffman/_Cambridge/NoSkull/5-10 MIN/,P,FALSE,,FALSE,,
+"D:/Hoffman/_Cambridge/NoSkull/VPHD 4.0 (3,18)/",P,FALSE,,FALSE,,FALSE
+"D:/Hoffman/_Cambridge/NoSkull/VPHD-S 2.0 (24,3)/",P,FALSE,,FALSE,,TRUE
+D:/Hoffman/_Cambridge/Skull/0-5 MINS/,P,FALSE,,TRUE,,
+D:/Hoffman/_Cambridge/Skull/10-15 MINS/,P,FALSE,,TRUE,,
+D:/Hoffman/_Cambridge/Skull/15-20 MINS/,P,FALSE,,TRUE,,
+D:/Hoffman/_Cambridge/Skull/20-25 MINS/,P,FALSE,,TRUE,,
+D:/Hoffman/_Cambridge/Skull/25-30 MINS/,P,FALSE,,TRUE,,
+D:/Hoffman/_Cambridge/Skull/5-10 MINS/,P,FALSE,,TRUE,,
+"D:/Hoffman/_Cambridge/Skull/VPHD 4.0 (3,18)/",P,FALSE,,TRUE,,FALSE
+"D:/Hoffman/_Cambridge/Skull/VPHD-S 2.0 (24,3)/",P,FALSE,,TRUE,,TRUE
+D:/Hoffman/_Cardiff/NoSkull/NO SKULL - PETIC PARAMETERS/,P,TRUE,,FALSE,,FALSE
+D:/Hoffman/_Cardiff/NoSkull/NO SKULL - STANDARD PARAMETER/,P,TRUE,,FALSE,,TRUE
+D:/Hoffman/_Cardiff/Skull/SKULL PETIC RECON/,P,TRUE,,TRUE,,FALSE
+D:/Hoffman/_Cardiff/Skull/SKULL STANDARD RECON/,P,TRUE,,TRUE,,TRUE
+D:/Hoffman/_Christie/Hoffman_NoSkull_2014_06_09/Hoffman_CT_2-5mm_25cm/,C,FALSE,,FALSE,,FALSE
+D:/Hoffman/_Christie/Hoffman_NoSkull_2014_06_09/Hoffman_CT_3-27mm_AC_50cm/,C,FALSE,,FALSE,,FALSE
+D:/Hoffman/_Christie/Hoffman_NoSkull_2014_06_09/Hoffman_CTAC-50cm_3x20_128_25cm_4mm/,P,TRUE,,FALSE,,FALSE
+D:/Hoffman/_Christie/Hoffman_NoSkull_2014_06_09/Standard_3D_CTAC_Iterative/,P,FALSE,,FALSE,,TRUE
+D:/Hoffman/_Christie/Hoffman_NoSkull_2014_06_09/Standard_3D_noAC_Iterative/,P,FALSE,,FALSE,,TRUE
+D:/Hoffman/_Christie/Hoffman_NoSkull_2014_06_09/Standard_CT Brain/,C,FALSE,,FALSE,,TRUE
+D:/Hoffman/_Christie/Hoffman_NoSkull_2014_06_09/Standard_CTAC Brain/,P,FALSE,,FALSE,,TRUE
+D:/Hoffman/_Christie/Hoffman_NoSkull_2014_06_09/Standard_CTAC_2X20_128_30cm_2-14mm/,P,TRUE,,FALSE,,TRUE
+D:/Hoffman/_Christie/Hoffman_NoSkull2_2014_06_13/Hoffman_CT_2-5mm_25cm/,C,FALSE,,FALSE,,FALSE
+D:/Hoffman/_Christie/Hoffman_NoSkull2_2014_06_13/Hoffman_CT_3-27mm_AC_50cm/,C,FALSE,,FALSE,,FALSE
+D:/Hoffman/_Christie/Hoffman_NoSkull2_2014_06_13/Hoffman_CTAC-50cm_3x20_128_25cm_4mm/,P,TRUE,,FALSE,,FALSE
+D:/Hoffman/_Christie/Hoffman_NoSkull2_2014_06_13/Standard_3D_CTAC_Iterative/,P,FALSE,,FALSE,,TRUE
+D:/Hoffman/_Christie/Hoffman_NoSkull2_2014_06_13/Standard_3D_noAC_Iterative/,P,FALSE,,FALSE,,TRUE
+D:/Hoffman/_Christie/Hoffman_NoSkull2_2014_06_13/Standard_CT Brain/,C,FALSE,,FALSE,,TRUE
+D:/Hoffman/_Christie/Hoffman_NoSkull2_2014_06_13/Standard_CTAC Brain/,P,FALSE,,FALSE,,TRUE
+D:/Hoffman/_Christie/Hoffman_NoSkull2_2014_06_13/Standard_CTAC_2x20_128_30cm_2-14mm/,P,TRUE,,FALSE,,TRUE
+D:/Hoffman/_Christie/Hoffman_Skull_2014_06_09/Hoffman_CT_2-5mm_25cm/,C,FALSE,,TRUE,,FALSE
+D:/Hoffman/_Christie/Hoffman_Skull_2014_06_09/Hoffman_CT_3-27mm_AC_50cm/,C,FALSE,,TRUE,,FALSE
+D:/Hoffman/_Christie/Hoffman_Skull_2014_06_09/Standard_3D_noAC_Iterative/,P,FALSE,,TRUE,,TRUE
+D:/Hoffman/_Christie/Hoffman_Skull_2014_06_09/Standard_CT Brain/,C,FALSE,,TRUE,,TRUE
+D:/Hoffman/_Christie/Hoffman_Skull_2014_06_09/Standard_CTAC Brain/,P,FALSE,,TRUE,,TRUE
+D:/Hoffman/_Dundee/#20_DD_Hoffman_1x5_Skull/,P,FALSE,,TRUE,,TRUE
+D:/Hoffman/_Dundee/#21_DD_Hoffman_2x5_Skull/,P,FALSE,,TRUE,,TRUE
+D:/Hoffman/_Dundee/#22_DD_Hoffman_3x5_Skull/,P,FALSE,,TRUE,,TRUE
+D:/Hoffman/_Dundee/#23_DD_Hoffman_4x5_Skull/,P,FALSE,,TRUE,,TRUE
+D:/Hoffman/_Dundee/#24_DD_Hoffman_5x5_Skull/,P,FALSE,,TRUE,,TRUE
+D:/Hoffman/_Dundee/#25_DD_Hoffman_6x5_Skull/,P,FALSE,,TRUE,,TRUE
+D:/Hoffman/_Dundee/#26_DD_Hoffman_1x5/,P,FALSE,,FALSE,,TRUE
+D:/Hoffman/_Dundee/#26_DD_Hoffman_2x5 Clinical_Skull/,P,FALSE,,TRUE,,FALSE
+D:/Hoffman/_Dundee/#27_DD_Hoffman_2x5/,P,FALSE,,FALSE,,TRUE
+D:/Hoffman/_Dundee/#27_DD_Hoffman_3x5 Clinical_Skull/,P,FALSE,,TRUE,,FALSE
+D:/Hoffman/_Dundee/#28_DD_Hoffman_3x5/,P,FALSE,,FALSE,,TRUE
+D:/Hoffman/_Dundee/#28_DD_Hoffman_4x5 Clinical_Skull/,P,FALSE,,TRUE,,FALSE
+D:/Hoffman/_Dundee/#29_DD_Hoffman_4x5/,P,FALSE,,FALSE,,TRUE
+D:/Hoffman/_Dundee/#29_DD_Hoffman_5x5 Clinical_Skull/,P,FALSE,,TRUE,,FALSE
+D:/Hoffman/_Dundee/#30_DD_Hoffman_5x5/,P,FALSE,,FALSE,,TRUE
+D:/Hoffman/_Dundee/#30_DD_Hoffman_6x5 Clinical_Skull/,P,FALSE,,TRUE,,FALSE
+D:/Hoffman/_Dundee/#31_DD_Hoffman_1x5 Clinical_Skull/,P,FALSE,,TRUE,,FALSE
+D:/Hoffman/_Dundee/#31_DD_Hoffman_6x5/,P,FALSE,,FALSE,,TRUE
+D:/Hoffman/_Dundee/#32_DD_Hoffman_1x5 Clinical/,P,FALSE,,FALSE,,FALSE
+D:/Hoffman/_Dundee/#33_DD_Hoffman_2x5 Clinical/,P,FALSE,,FALSE,,FALSE
+D:/Hoffman/_Dundee/#34_DD_Hoffman_3x5 Clinical/,P,FALSE,,FALSE,,FALSE
+D:/Hoffman/_Dundee/#35_DD_Hoffman_4x5 Clinical/,P,FALSE,,FALSE,,FALSE
+D:/Hoffman/_Dundee/#36_DD_Hoffman_5x5 Clinical/,P,FALSE,,FALSE,,FALSE
+D:/Hoffman/_Dundee/#37_DD_Hoffman_6x5 Clinical/,P,FALSE,,FALSE,,FALSE
+D:/Hoffman/_Edinburgh/#10_Hoff skull OSEM 3i24s 4mm 400 z1/,P,FALSE,,TRUE,,TRUE
+D:/Hoffman/_Edinburgh/#11_Hoff AC OSEM+TOF 4i21s 4mm 400 z2/,P,TRUE,,FALSE,,FALSE
+D:/Hoffman/_Edinburgh/#12_Hoff AC OSEM 3i24s 4mm 400 z1/,P,TRUE,,FALSE,,TRUE
+D:/Hoffman/_Edinburgh/#7_Hoff skull AC OSEM 3i24s 4mm 128 z1/,P,TRUE,,TRUE,,TRUE
+D:/Hoffman/_Edinburgh/#9_Hoff AC OSEM 3i24s 4mm 128 z1/,P,TRUE,,FALSE,,TRUE
+D:/Hoffman/_Edinburgh/#9_Hoff AC OSEM+TOF 4i21s 4mm 400 z2/,P,TRUE,,FALSE,,FALSE
+D:/Hoffman/_Glasgow/NoSkull/Glasgow PET 0-5m NO Skull/,P,FALSE,,FALSE,,FALSE
+D:/Hoffman/_Glasgow/NoSkull/Glasgow PET 10-15m NO Skull/,P,FALSE,,FALSE,,FALSE
+D:/Hoffman/_Glasgow/NoSkull/Glasgow PET 15-20m NO Skull/,P,FALSE,,FALSE,,FALSE
+D:/Hoffman/_Glasgow/NoSkull/Glasgow PET 20-25m NO Skull/,P,FALSE,,FALSE,,FALSE
+D:/Hoffman/_Glasgow/NoSkull/Glasgow PET 25-30m NO Skull/,P,FALSE,,FALSE,,FALSE
+D:/Hoffman/_Glasgow/NoSkull/Glasgow PET 5-10m NO Skull/,P,FALSE,,FALSE,,FALSE
+D:/Hoffman/_Glasgow/NoSkull/UK PET 0-5m NO Skull NToF/,P,FALSE,,FALSE,,TRUE
+D:/Hoffman/_Glasgow/NoSkull/UK PET 0-5m NO Skull/,P,FALSE,,FALSE,,TRUE
+D:/Hoffman/_Glasgow/NoSkull/UK PET 10-15m NO Skull NToF/,P,FALSE,,FALSE,,TRUE
+D:/Hoffman/_Glasgow/NoSkull/UK PET 10-15m NO Skull/,P,FALSE,,FALSE,,TRUE
+D:/Hoffman/_Glasgow/NoSkull/UK PET 15-20m NO Skull NToF/,P,FALSE,,FALSE,,TRUE
+D:/Hoffman/_Glasgow/NoSkull/UK PET 15-20m NO Skull/,P,FALSE,,FALSE,,TRUE
+D:/Hoffman/_Glasgow/NoSkull/UK PET 20-25m NO Skull NToF/,P,FALSE,,FALSE,,TRUE
+D:/Hoffman/_Glasgow/NoSkull/UK PET 20-25m NO Skull/,P,FALSE,,FALSE,,TRUE
+D:/Hoffman/_Glasgow/NoSkull/UK PET 25-30m NO Skull NToF/,P,FALSE,,FALSE,,TRUE
+D:/Hoffman/_Glasgow/NoSkull/UK PET 25-30m NO Skull/,P,FALSE,,FALSE,,TRUE
+D:/Hoffman/_Glasgow/NoSkull/UK PET 5-10m NO Skull NToF/,P,FALSE,,FALSE,,TRUE
+D:/Hoffman/_Glasgow/NoSkull/UK PET 5-10m NO Skull/,P,FALSE,,FALSE,,TRUE
+D:/Hoffman/_Glasgow/Skull/Glasgow PET 0-5m Skull/,P,FALSE,,TRUE,,FALSE
+D:/Hoffman/_Glasgow/Skull/Glasgow PET 10-15m Skull/,P,FALSE,,TRUE,,FALSE
+D:/Hoffman/_Glasgow/Skull/Glasgow PET 15-20m Skull/,P,FALSE,,TRUE,,FALSE
+D:/Hoffman/_Glasgow/Skull/Glasgow PET 20-25m Skull/,P,FALSE,,TRUE,,FALSE
+D:/Hoffman/_Glasgow/Skull/Glasgow PET 25-30m Skull/,P,FALSE,,TRUE,,FALSE
+D:/Hoffman/_Glasgow/Skull/Glasgow PET 5-10m Skull/,P,FALSE,,TRUE,,FALSE
+D:/Hoffman/_Glasgow/Skull/UK PET 0-5m Skull NToF/,P,FALSE,,TRUE,,TRUE
+D:/Hoffman/_Glasgow/Skull/UK PET 0-5m Skull/,P,FALSE,,TRUE,,TRUE
+D:/Hoffman/_Glasgow/Skull/UK PET 10-15m Skull/,P,FALSE,,TRUE,,TRUE
+D:/Hoffman/_Glasgow/Skull/UK PET 15-20m Skull NToF/,P,FALSE,,TRUE,,TRUE
+D:/Hoffman/_Glasgow/Skull/UK PET 15-20m Skull/,P,FALSE,,TRUE,,TRUE
+D:/Hoffman/_Glasgow/Skull/UK PET 20-25m Skull NToF/,P,FALSE,,TRUE,,TRUE
+D:/Hoffman/_Glasgow/Skull/UK PET 20-25m Skull/,P,FALSE,,TRUE,,TRUE
+D:/Hoffman/_Glasgow/Skull/UK PET 25-30m Skull NToF/,P,FALSE,,TRUE,,TRUE
+D:/Hoffman/_Glasgow/Skull/UK PET 25-30m Skull/,P,FALSE,,TRUE,,TRUE
+D:/Hoffman/_Glasgow/Skull/UK PET 5-10m Skull NToF/,P,FALSE,,TRUE,,TRUE
+D:/Hoffman/_Glasgow/Skull/UK PET 5-10m Skull/,P,FALSE,,TRUE,,TRUE
+D:/Hoffman/_Leeds/Hoffman phantom/NoSkull/#401_6x 5min dynamic/,P,TRUE,,FALSE,,TRUE
+D:/Hoffman/_Leeds/Hoffman phantom/NoSkull/#402_6X 5MIN DYN (CLINICAL)/,P,TRUE,,FALSE,,FALSE
+D:/Hoffman/_Leeds/Hoffman phantom/Skull/#401_6x 5min dynamic/,P,TRUE,,TRUE,,TRUE
+D:/Hoffman/_Leeds/Hoffman phantom/Skull/#402_ 6X 5MIN DYN (CLINICAL)/,P,TRUE,,TRUE,,FALSE
+D:/Hoffman/_Manchester/CNMNC_Hoffman_PET_2014_05_30_DRAFT/OUR CT Brain/3001/,C,FALSE,,FALSE,,FALSE
+D:/Hoffman/_Manchester/CNMNC_Hoffman_PET_2014_05_30_DRAFT/OUR CT Brain/6001/,C,FALSE,,FALSE,,FALSE
+D:/Hoffman/_Manchester/CNMNC_Hoffman_PET_2014_05_30_DRAFT/OUR CT Brain/8001/,C,FALSE,,FALSE,,FALSE
+D:/Hoffman/_Manchester/CNMNC_Hoffman_PET_2014_05_30_DRAFT/PET Brain AC HD 400 3mm/Recon1/,P,FALSE,,FALSE,,FALSE
+D:/Hoffman/_Manchester/CNMNC_Hoffman_PET_2014_05_30_DRAFT/PET Brain AC HD 400 3mm/Recon2/,P,FALSE,,FALSE,,FALSE
+D:/Hoffman/_Manchester/CNMNC_Hoffman_PET_2014_05_30_DRAFT/PET Brain AC HD 400 3mm/Recon3/,P,FALSE,,FALSE,,FALSE
+D:/Hoffman/_Manchester/CNMNC_Hoffman_PET_2014_05_30_DRAFT/PET Brain AC HD 400 3mm/Recon4/,P,FALSE,,FALSE,,FALSE
+D:/Hoffman/_Manchester/CNMNC_Hoffman_PET_2014_05_30_DRAFT/PET Brain NAC HD 400 3mm/1/,P,FALSE,,FALSE,,FALSE
+D:/Hoffman/_Manchester/CNMNC_Hoffman_PET_2014_05_30_DRAFT/PET Brain NAC HD 400 3mm/2/,P,FALSE,,FALSE,,FALSE
+D:/Hoffman/_Manchester/CNMNC_Hoffman_PET_2014_05_30_DRAFT/PET Brain NAC HD 400 3mm/3/,P,FALSE,,FALSE,,FALSE
+D:/Hoffman/_Manchester/CNMNC_Hoffman_PET_2014_05_30_DRAFT/PET Brain NAC HD 400 3mm/4/,P,FALSE,,FALSE,,FALSE
+D:/Hoffman/_Manchester/CNMNC_Hoffman_PET_2014_05_30_DRAFT/STD CT Brain/4001/,C,FALSE,,FALSE,,FALSE
+D:/Hoffman/_Manchester/CNMNC_Hoffman_PET_2014_05_30_DRAFT/STD CT Brain/9001/,C,FALSE,,FALSE,,FALSE
+D:/Hoffman/_Newcastle/Local_Dynamic/,P,TRUE,,FALSE,,FALSE
+D:/Hoffman/_Newcastle/Sum/,P,FALSE,,FALSE,,FALSE
+D:/Hoffman/_Newcastle/UK AC PET/,P,TRUE,,FALSE,,TRUE
+D:/Hoffman/_Newcastle/z_CT_same_as_UK AC PET/,P,TRUE,,FALSE,,TRUE
+D:/Hoffman/_N-Staffs/DICOM/20140408/#4_PET Brain  & Skull/,P,TRUE,,TRUE,,FALSE
+D:/Hoffman/_N-Staffs/DICOM/20140408/#5_PET Brain OSEM  & Skull/,P,TRUE,,TRUE,,TRUE
+D:/Hoffman/_N-Staffs/DICOM/20140408/#5_PET Brain/,P,TRUE,,FALSE,,FALSE
+D:/Hoffman/_N-Staffs/DICOM/20140408/#6_PET Brain OSEM/,P,TRUE,,FALSE,,TRUE
+D:/Hoffman/_RoyalSurrey/withoutSkull/PET_BRAIN_LOCALPETTOURCT_0013/,P,TRUE,,FALSE,,FALSE
+D:/Hoffman/_RoyalSurrey/withoutSkull/PET_BRAIN_TOURPETTOURCT_0011/,P,TRUE,,FALSE,,TRUE
+D:/Hoffman/_RoyalSurrey/withoutSkull/PET_BRAIN_TOURPETTOURCT_0011_cropped/,P,FALSE,,FALSE,,TRUE
+D:/Hoffman/_RoyalSurrey/withSkull/PET_BRAIN_LOCALPETTOURCT_0015/,P,TRUE,,TRUE,,FALSE
+D:/Hoffman/_RoyalSurrey/withSkull/PET_BRAIN_TOURPETTOURCT_0017/,P,TRUE,,TRUE,,TRUE
+D:/Hoffman/_RoyalSurrey/withSkull/PET_BRAIN_TOURPETTOURCT_0017_cropped/,P,FALSE,,TRUE,,TRUE
+D:/Hoffman/_Sheffield/sheffield_hoffman/PET_noskull/S888101/,P,TRUE,,FALSE,,
+D:/Hoffman/_Sheffield/sheffield_hoffman/PET_noskull/S907700/,P,TRUE,,FALSE,,
+D:/Hoffman/_Sheffield/sheffield_hoffman/PET_withskull/S12220/,P,TRUE,,TRUE,,
+D:/Hoffman/_Sheffield/sheffield_hoffman/PET_withskull/S12420/,P,TRUE,,TRUE,,
+D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5HOFFMANNOSKULLVPHDDYN_Std/,P,TRUE,,FALSE,,
+D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5PETFDGBRAINVPFXDYN/,P,TRUE,,FALSE,,
+D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5PETFDGBRAINVPFXDYN_Extra/,P,TRUE,,FALSE,,
+D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5PETFDGBRAINVPFXSDYN/,P,TRUE,,FALSE,,
+D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5PETFDGBRAINVPFXSDYN_Local/,P,TRUE,,FALSE,,
+D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5HOFFMAN_SKULLVPHDDYN_Std/,P,TRUE,,TRUE,,
+D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5PETBRAINVPFXDYN/,P,TRUE,,TRUE,,
+D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5PETBRAINVPFXDYN_Extra/,P,TRUE,,TRUE,,
+D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5PETBRAINVPFXSDYN/,P,TRUE,,TRUE,,
+D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5PETBRAINVPFXSDYN_Local/,P,TRUE,,TRUE,,
+D:/Hoffman/_StThomas/St Thomas VPHD/VPHD/WITH SKULL/D5HOFFMAN_SKULLVPHDDYN/,P,TRUE,,TRUE,,
+D:/Hoffman/_StThomas/St Thomas VPHD/VPHD/WITHOUT SKULL/D5HOFFMANNOSKULLVPHDDYN/,P,TRUE,,FALSE,,
+D:/Hoffman/_UCL-UCLH/DST_HOFFMAN_NOSKULL/PET_DYN_6times5MIN,P,TRUE,,FALSE,,TRUE
+D:/Hoffman/_UCL-UCLH/DST_HOFFMAN_NOSKULL/PET_SUM_30MIN/1.2.840.113619.2.55.3.2349523240.438.1378968805.817/,P,FALSE,,FALSE,,TRUE
+D:/Hoffman/_UCL-UCLH/DST_HOFFMAN_SKULL/PET_DYN_6times5MIN,P,TRUE,,TRUE,,TRUE
+D:/Hoffman/_UCL-UCLH/DST_HOFFMAN_SKULL/PET_SUM_30MIN/1.2.840.113619.2.55.3.2349523240.438.1378968805.664/,P,FALSE,,TRUE,,TRUE
+D:/Hoffman/_UCL-UCLH/DVCT_HOFFMAN_NOSKULL/PET_DYN_6times5MIN,P,TRUE,,FALSE,,TRUE
+D:/Hoffman/_UCL-UCLH/DVCT_HOFFMAN_NOSKULL/PET_SUM_30MIN/1.2.840.113619.2.55.3.2349523752.781.1378969999.87/,P,FALSE,,FALSE,,TRUE
+D:/Hoffman/_UCL-UCLH/DVCT_HOFFMAN_SKULL/PET_DYN_6times5MIN,P,TRUE,,TRUE,,TRUE
+D:/Hoffman/_UCL-UCLH/DVCT_HOFFMAN_SKULL/PET_SUM_30MIN/1.2.840.113619.2.55.3.2349523752.781.1378969998.980/,P,FALSE,,TRUE,,TRUE
+D:/Hoffman/_WMIC/Hoffman_NoSkull_2014_06_09/6x5mm_CTAC_3x21_128_z2-7_4mm (AC),P,TRUE,,FALSE,,TRUE
+D:/Hoffman/_WMIC/Hoffman_Skull_2014_06_09/6x5mm_CTAC_3x21_128_z2-7_4mm (AC),P,TRUE,,TRUE,,TRUE
