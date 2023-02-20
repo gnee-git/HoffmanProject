@@ -1,1434 +1,1848 @@
-open("D:/Hoffman/NiftiImages/Aberdeen_01.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Aberdeen_01.img");
-close();
-open("D:/Hoffman/NiftiImages/Aberdeen_02.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Aberdeen_02.img");
-close();
-open("D:/Hoffman/NiftiImages/Aberdeen_03.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Aberdeen_03.img");
-close();
-open("D:/Hoffman/NiftiImages/Aberdeen_04.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Aberdeen_04.img");
-close();
-open("D:/Hoffman/NiftiImages/Aberdeen_05.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Aberdeen_05.img");
-close();
-open("D:/Hoffman/NiftiImages/Aberdeen_06.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Aberdeen_06.img");
-close();
-open("D:/Hoffman/NiftiImages/Aberdeen_07.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Aberdeen_07.img");
-close();
-open("D:/Hoffman/NiftiImages/Aberdeen_08.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Aberdeen_08.img");
-close();
-open("D:/Hoffman/NiftiImages/Aberdeen_09.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Aberdeen_09.img");
-close();
-open("D:/Hoffman/NiftiImages/Aberdeen_10.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Aberdeen_10.img");
-close();
-open("D:/Hoffman/NiftiImages/Aberdeen_11.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Aberdeen_11.img");
-close();
-open("D:/Hoffman/NiftiImages/Aberdeen_12.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Aberdeen_12.img");
-close();
-open("D:/Hoffman/NiftiImages/Aberdeen_13.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Aberdeen_13.img");
-close();
-open("D:/Hoffman/NiftiImages/Aberdeen_14.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Aberdeen_14.img");
-close();
-open("D:/Hoffman/NiftiImages/Aberdeen_15.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Aberdeen_15.img");
-close();
-open("D:/Hoffman/NiftiImages/Aberdeen_16.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Aberdeen_16.img");
-close();
-open("D:/Hoffman/NiftiImages/Aberdeen_17.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Aberdeen_17.img");
-close();
-open("D:/Hoffman/NiftiImages/Aberdeen_18.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Aberdeen_18.img");
-close();
-open("D:/Hoffman/NiftiImages/Aberdeen_19.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Aberdeen_19.img");
-close();
-open("D:/Hoffman/NiftiImages/Aberdeen_20.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Aberdeen_20.img");
-close();
-open("D:/Hoffman/NiftiImages/Aberdeen_21.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Aberdeen_21.img");
-close();
-open("D:/Hoffman/NiftiImages/Aberdeen_22.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Aberdeen_22.img");
-close();
-open("D:/Hoffman/NiftiImages/Aberdeen_23.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Aberdeen_23.img");
-close();
-open("D:/Hoffman/NiftiImages/Aberdeen_24.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Aberdeen_24.img");
-close();
-open("D:/Hoffman/NiftiImages/Aberdeen_25.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Aberdeen_25.img");
-close();
-open("D:/Hoffman/NiftiImages/Aberdeen_26.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Aberdeen_26.img");
-close();
-open("D:/Hoffman/NiftiImages/Belfast_01.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Belfast_01.img");
-close();
-open("D:/Hoffman/NiftiImages/Belfast_02.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Belfast_02.img");
-close();
-open("D:/Hoffman/NiftiImages/Belfast_03.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Belfast_03.img");
-close();
-open("D:/Hoffman/NiftiImages/Belfast_04.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Belfast_04.img");
-close();
-open("D:/Hoffman/NiftiImages/Belfast_05.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Belfast_05.img");
-close();
-open("D:/Hoffman/NiftiImages/Belfast_06.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Belfast_06.img");
-close();
-open("D:/Hoffman/NiftiImages/Belfast_07.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Belfast_07.img");
-close();
-open("D:/Hoffman/NiftiImages/Belfast_08.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Belfast_08.img");
-close();
-open("D:/Hoffman/NiftiImages/Belfast_09.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Belfast_09.img");
-close();
-open("D:/Hoffman/NiftiImages/Belfast_10.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Belfast_10.img");
-close();
-open("D:/Hoffman/NiftiImages/Belfast_11.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Belfast_11.img");
-close();
-open("D:/Hoffman/NiftiImages/Belfast_12.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Belfast_12.img");
-close();
-open("D:/Hoffman/NiftiImages/Belfast_13.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Belfast_13.img");
-close();
-open("D:/Hoffman/NiftiImages/Belfast_14.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Belfast_14.img");
-close();
-open("D:/Hoffman/NiftiImages/Belfast_15.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Belfast_15.img");
-close();
-open("D:/Hoffman/NiftiImages/Belfast_16.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Belfast_16.img");
-close();
-open("D:/Hoffman/NiftiImages/Belfast_17.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Belfast_17.img");
-close();
-open("D:/Hoffman/NiftiImages/Belfast_18.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Belfast_18.img");
-close();
-open("D:/Hoffman/NiftiImages/Belfast_19.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Belfast_19.img");
-close();
-open("D:/Hoffman/NiftiImages/Belfast_20.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Belfast_20.img");
-close();
-open("D:/Hoffman/NiftiImages/Belfast_21.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Belfast_21.img");
-close();
-open("D:/Hoffman/NiftiImages/Belfast_22.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Belfast_22.img");
-close();
-open("D:/Hoffman/NiftiImages/Belfast_23.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Belfast_23.img");
-close();
-open("D:/Hoffman/NiftiImages/Belfast_24.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Belfast_24.img");
-close();
-open("D:/Hoffman/NiftiImages/Belfast_25.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Belfast_25.img");
-close();
-open("D:/Hoffman/NiftiImages/Belfast_26.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Belfast_26.img");
-close();
-open("D:/Hoffman/NiftiImages/Belfast_27.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Belfast_27.img");
-close();
-open("D:/Hoffman/NiftiImages/Belfast_28.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Belfast_28.img");
-close();
-open("D:/Hoffman/NiftiImages/Belfast_29.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Belfast_29.img");
-close();
-open("D:/Hoffman/NiftiImages/Belfast_30.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Belfast_30.img");
-close();
-open("D:/Hoffman/NiftiImages/Belfast_31.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Belfast_31.img");
-close();
-open("D:/Hoffman/NiftiImages/Belfast_32.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Belfast_32.img");
-close();
-open("D:/Hoffman/NiftiImages/Cambridge_01.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Cambridge_01.img");
-close();
-open("D:/Hoffman/NiftiImages/Cambridge_02.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Cambridge_02.img");
-close();
-open("D:/Hoffman/NiftiImages/Cambridge_03.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Cambridge_03.img");
-close();
-open("D:/Hoffman/NiftiImages/Cambridge_04.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Cambridge_04.img");
-close();
-open("D:/Hoffman/NiftiImages/Cambridge_05.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Cambridge_05.img");
-close();
-open("D:/Hoffman/NiftiImages/Cambridge_06.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Cambridge_06.img");
-close();
-open("D:/Hoffman/NiftiImages/Cambridge_07.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Cambridge_07.img");
-close();
-open("D:/Hoffman/NiftiImages/Cambridge_08.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Cambridge_08.img");
-close();
-open("D:/Hoffman/NiftiImages/Cambridge_09.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Cambridge_09.img");
-close();
-open("D:/Hoffman/NiftiImages/Cambridge_10.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Cambridge_10.img");
-close();
-open("D:/Hoffman/NiftiImages/Cambridge_11.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Cambridge_11.img");
-close();
-open("D:/Hoffman/NiftiImages/Cambridge_12.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Cambridge_12.img");
-close();
-open("D:/Hoffman/NiftiImages/Cambridge_13.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Cambridge_13.img");
-close();
-open("D:/Hoffman/NiftiImages/Cambridge_14.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Cambridge_14.img");
-close();
-open("D:/Hoffman/NiftiImages/Cambridge_15.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Cambridge_15.img");
-close();
-open("D:/Hoffman/NiftiImages/Cambridge_16.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Cambridge_16.img");
-close();
-open("D:/Hoffman/NiftiImages/Cambridge_17.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Cambridge_17.img");
-close();
-open("D:/Hoffman/NiftiImages/Cambridge_18.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Cambridge_18.img");
-close();
-open("D:/Hoffman/NiftiImages/Cambridge_19.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Cambridge_19.img");
-close();
-open("D:/Hoffman/NiftiImages/Cambridge_20.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Cambridge_20.img");
-close();
-open("D:/Hoffman/NiftiImages/Cambridge_21.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Cambridge_21.img");
-close();
-open("D:/Hoffman/NiftiImages/Cambridge_22.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Cambridge_22.img");
-close();
-open("D:/Hoffman/NiftiImages/Cambridge_23.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Cambridge_23.img");
-close();
-open("D:/Hoffman/NiftiImages/Cambridge_24.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Cambridge_24.img");
-close();
-open("D:/Hoffman/NiftiImages/Cambridge_25.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Cambridge_25.img");
-close();
-open("D:/Hoffman/NiftiImages/Cambridge_26.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Cambridge_26.img");
-close();
-open("D:/Hoffman/NiftiImages/Cambridge_27.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Cambridge_27.img");
-close();
-open("D:/Hoffman/NiftiImages/Cambridge_28.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Cambridge_28.img");
-close();
-open("D:/Hoffman/NiftiImages/Cambridge_29.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Cambridge_29.img");
-close();
-open("D:/Hoffman/NiftiImages/Cambridge_30.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Cambridge_30.img");
-close();
-open("D:/Hoffman/NiftiImages/Cambridge_31.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Cambridge_31.img");
-close();
-open("D:/Hoffman/NiftiImages/Cambridge_32.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Cambridge_32.img");
-close();
-open("D:/Hoffman/NiftiImages/Cardiff_01.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Cardiff_01.img");
-close();
-open("D:/Hoffman/NiftiImages/Cardiff_02.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Cardiff_02.img");
-close();
-open("D:/Hoffman/NiftiImages/Cardiff_03.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Cardiff_03.img");
-close();
-open("D:/Hoffman/NiftiImages/Cardiff_04.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Cardiff_04.img");
-close();
-open("D:/Hoffman/NiftiImages/Cardiff_05.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Cardiff_05.img");
-close();
-open("D:/Hoffman/NiftiImages/Cardiff_06.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Cardiff_06.img");
-close();
-open("D:/Hoffman/NiftiImages/Cardiff_07.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Cardiff_07.img");
-close();
-open("D:/Hoffman/NiftiImages/Cardiff_08.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Cardiff_08.img");
-close();
-open("D:/Hoffman/NiftiImages/Cardiff_09.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Cardiff_09.img");
-close();
-open("D:/Hoffman/NiftiImages/Cardiff_10.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Cardiff_10.img");
-close();
-open("D:/Hoffman/NiftiImages/Cardiff_11.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Cardiff_11.img");
-close();
-open("D:/Hoffman/NiftiImages/Cardiff_12.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Cardiff_12.img");
-close();
-open("D:/Hoffman/NiftiImages/Cardiff_13.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Cardiff_13.img");
-close();
-open("D:/Hoffman/NiftiImages/Cardiff_14.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Cardiff_14.img");
-close();
-open("D:/Hoffman/NiftiImages/Cardiff_15.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Cardiff_15.img");
-close();
-open("D:/Hoffman/NiftiImages/Cardiff_16.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Cardiff_16.img");
-close();
-open("D:/Hoffman/NiftiImages/Cardiff_17.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Cardiff_17.img");
-close();
-open("D:/Hoffman/NiftiImages/Cardiff_18.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Cardiff_18.img");
-close();
-open("D:/Hoffman/NiftiImages/Cardiff_19.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Cardiff_19.img");
-close();
-open("D:/Hoffman/NiftiImages/Cardiff_20.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Cardiff_20.img");
-close();
-open("D:/Hoffman/NiftiImages/Cardiff_21.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Cardiff_21.img");
-close();
-open("D:/Hoffman/NiftiImages/Cardiff_22.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Cardiff_22.img");
-close();
-open("D:/Hoffman/NiftiImages/Cardiff_23.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Cardiff_23.img");
-close();
-open("D:/Hoffman/NiftiImages/Cardiff_24.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Cardiff_24.img");
-close();
-open("D:/Hoffman/NiftiImages/Christie_01.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Christie_01.img");
-close();
-open("D:/Hoffman/NiftiImages/Christie_02.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Christie_02.img");
-close();
-open("D:/Hoffman/NiftiImages/Christie_03.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Christie_03.img");
-close();
-open("D:/Hoffman/NiftiImages/Christie_04.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Christie_04.img");
-close();
-open("D:/Hoffman/NiftiImages/Christie_05.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Christie_05.img");
-close();
-open("D:/Hoffman/NiftiImages/Christie_06.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Christie_06.img");
-close();
-open("D:/Hoffman/NiftiImages/Christie_07.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Christie_07.img");
-close();
-open("D:/Hoffman/NiftiImages/Christie_08.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Christie_08.img");
-close();
-open("D:/Hoffman/NiftiImages/Christie_09.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Christie_09.img");
-close();
-open("D:/Hoffman/NiftiImages/Christie_10.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Christie_10.img");
-close();
-open("D:/Hoffman/NiftiImages/Christie_11.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Christie_11.img");
-close();
-open("D:/Hoffman/NiftiImages/Christie_12.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Christie_12.img");
-close();
-open("D:/Hoffman/NiftiImages/Christie_13.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Christie_13.img");
-close();
-open("D:/Hoffman/NiftiImages/Christie_14.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Christie_14.img");
-close();
-open("D:/Hoffman/NiftiImages/Christie_15.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Christie_15.img");
-close();
-open("D:/Hoffman/NiftiImages/Christie_16.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Christie_16.img");
-close();
-open("D:/Hoffman/NiftiImages/Christie_17.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Christie_17.img");
-close();
-open("D:/Hoffman/NiftiImages/Christie_18.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Christie_18.img");
-close();
-open("D:/Hoffman/NiftiImages/Christie_19.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Christie_19.img");
-close();
-open("D:/Hoffman/NiftiImages/Christie_20.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Christie_20.img");
-close();
-open("D:/Hoffman/NiftiImages/Christie_21.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Christie_21.img");
-close();
-open("D:/Hoffman/NiftiImages/Christie_22.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Christie_22.img");
-close();
-open("D:/Hoffman/NiftiImages/Christie_23.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Christie_23.img");
-close();
-open("D:/Hoffman/NiftiImages/Christie_24.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Christie_24.img");
-close();
-open("D:/Hoffman/NiftiImages/Christie_25.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Christie_25.img");
-close();
-open("D:/Hoffman/NiftiImages/Christie_26.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Christie_26.img");
-close();
-open("D:/Hoffman/NiftiImages/Christie_27.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Christie_27.img");
-close();
-open("D:/Hoffman/NiftiImages/Christie_28.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Christie_28.img");
-close();
-open("D:/Hoffman/NiftiImages/Christie_29.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Christie_29.img");
-close();
-open("D:/Hoffman/NiftiImages/Christie_30.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Christie_30.img");
-close();
-open("D:/Hoffman/NiftiImages/Christie_31.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Christie_31.img");
-close();
-open("D:/Hoffman/NiftiImages/Christie_32.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Christie_32.img");
-close();
-open("D:/Hoffman/NiftiImages/Christie_33.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Christie_33.img");
-close();
-open("D:/Hoffman/NiftiImages/Christie_34.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Christie_34.img");
-close();
-open("D:/Hoffman/NiftiImages/Christie_35.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Christie_35.img");
-close();
-open("D:/Hoffman/NiftiImages/Christie_36.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Christie_36.img");
-close();
-open("D:/Hoffman/NiftiImages/Christie_37.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Christie_37.img");
-close();
-open("D:/Hoffman/NiftiImages/Christie_38.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Christie_38.img");
-close();
-open("D:/Hoffman/NiftiImages/Christie_39.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Christie_39.img");
-close();
-open("D:/Hoffman/NiftiImages/Christie_40.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Christie_40.img");
-close();
-open("D:/Hoffman/NiftiImages/Christie_41.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Christie_41.img");
-close();
-open("D:/Hoffman/NiftiImages/Christie_42.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Christie_42.img");
-close();
-open("D:/Hoffman/NiftiImages/Christie_43.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Christie_43.img");
-close();
-open("D:/Hoffman/NiftiImages/Christie_44.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Christie_44.img");
-close();
-open("D:/Hoffman/NiftiImages/Christie_45.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Christie_45.img");
-close();
-open("D:/Hoffman/NiftiImages/Christie_46.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Christie_46.img");
-close();
-open("D:/Hoffman/NiftiImages/Christie_47.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Christie_47.img");
-close();
-open("D:/Hoffman/NiftiImages/Christie_48.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Christie_48.img");
-close();
-open("D:/Hoffman/NiftiImages/Christie_49.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Christie_49.img");
-close();
-open("D:/Hoffman/NiftiImages/Christie_50.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Christie_50.img");
-close();
-open("D:/Hoffman/NiftiImages/Christie_51.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Christie_51.img");
-close();
-open("D:/Hoffman/NiftiImages/Christie_52.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Christie_52.img");
-close();
-open("D:/Hoffman/NiftiImages/Christie_53.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Christie_53.img");
-close();
-open("D:/Hoffman/NiftiImages/Christie_54.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Christie_54.img");
-close();
-open("D:/Hoffman/NiftiImages/Dundee_01.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Dundee_01.img");
-close();
-open("D:/Hoffman/NiftiImages/Dundee_02.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Dundee_02.img");
-close();
-open("D:/Hoffman/NiftiImages/Dundee_03.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Dundee_03.img");
-close();
-open("D:/Hoffman/NiftiImages/Dundee_04.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Dundee_04.img");
-close();
-open("D:/Hoffman/NiftiImages/Dundee_05.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Dundee_05.img");
-close();
-open("D:/Hoffman/NiftiImages/Dundee_06.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Dundee_06.img");
-close();
-open("D:/Hoffman/NiftiImages/Dundee_07.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Dundee_07.img");
-close();
-open("D:/Hoffman/NiftiImages/Dundee_08.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Dundee_08.img");
-close();
-open("D:/Hoffman/NiftiImages/Dundee_09.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Dundee_09.img");
-close();
-open("D:/Hoffman/NiftiImages/Dundee_10.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Dundee_10.img");
-close();
-open("D:/Hoffman/NiftiImages/Dundee_11.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Dundee_11.img");
-close();
-open("D:/Hoffman/NiftiImages/Dundee_12.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Dundee_12.img");
-close();
-open("D:/Hoffman/NiftiImages/Dundee_13.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Dundee_13.img");
-close();
-open("D:/Hoffman/NiftiImages/Dundee_14.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Dundee_14.img");
-close();
-open("D:/Hoffman/NiftiImages/Dundee_15.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Dundee_15.img");
-close();
-open("D:/Hoffman/NiftiImages/Dundee_16.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Dundee_16.img");
-close();
-open("D:/Hoffman/NiftiImages/Dundee_17.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Dundee_17.img");
-close();
-open("D:/Hoffman/NiftiImages/Dundee_18.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Dundee_18.img");
-close();
-open("D:/Hoffman/NiftiImages/Dundee_19.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Dundee_19.img");
-close();
-open("D:/Hoffman/NiftiImages/Dundee_20.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Dundee_20.img");
-close();
-open("D:/Hoffman/NiftiImages/Dundee_21.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Dundee_21.img");
-close();
-open("D:/Hoffman/NiftiImages/Dundee_22.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Dundee_22.img");
-close();
-open("D:/Hoffman/NiftiImages/Dundee_23.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Dundee_23.img");
-close();
-open("D:/Hoffman/NiftiImages/Dundee_24.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Dundee_24.img");
-close();
-open("D:/Hoffman/NiftiImages/Edinburgh_01.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Edinburgh_01.img");
-close();
-open("D:/Hoffman/NiftiImages/Edinburgh_02.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Edinburgh_02.img");
-close();
-open("D:/Hoffman/NiftiImages/Edinburgh_03.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Edinburgh_03.img");
-close();
-open("D:/Hoffman/NiftiImages/Edinburgh_04.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Edinburgh_04.img");
-close();
-open("D:/Hoffman/NiftiImages/Edinburgh_05.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Edinburgh_05.img");
-close();
-open("D:/Hoffman/NiftiImages/Edinburgh_06.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Edinburgh_06.img");
-close();
-open("D:/Hoffman/NiftiImages/Edinburgh_07.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Edinburgh_07.img");
-close();
-open("D:/Hoffman/NiftiImages/Edinburgh_08.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Edinburgh_08.img");
-close();
-open("D:/Hoffman/NiftiImages/Edinburgh_09.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Edinburgh_09.img");
-close();
-open("D:/Hoffman/NiftiImages/Edinburgh_10.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Edinburgh_10.img");
-close();
-open("D:/Hoffman/NiftiImages/Edinburgh_11.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Edinburgh_11.img");
-close();
-open("D:/Hoffman/NiftiImages/Edinburgh_12.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Edinburgh_12.img");
-close();
-open("D:/Hoffman/NiftiImages/Edinburgh_13.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Edinburgh_13.img");
-close();
-open("D:/Hoffman/NiftiImages/Edinburgh_14.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Edinburgh_14.img");
-close();
-open("D:/Hoffman/NiftiImages/Edinburgh_15.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Edinburgh_15.img");
-close();
-open("D:/Hoffman/NiftiImages/Edinburgh_16.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Edinburgh_16.img");
-close();
-open("D:/Hoffman/NiftiImages/Edinburgh_17.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Edinburgh_17.img");
-close();
-open("D:/Hoffman/NiftiImages/Edinburgh_18.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Edinburgh_18.img");
-close();
-open("D:/Hoffman/NiftiImages/Edinburgh_19.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Edinburgh_19.img");
-close();
-open("D:/Hoffman/NiftiImages/Edinburgh_20.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Edinburgh_20.img");
-close();
-open("D:/Hoffman/NiftiImages/Edinburgh_21.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Edinburgh_21.img");
-close();
-open("D:/Hoffman/NiftiImages/Edinburgh_22.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Edinburgh_22.img");
-close();
-open("D:/Hoffman/NiftiImages/Edinburgh_23.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Edinburgh_23.img");
-close();
-open("D:/Hoffman/NiftiImages/Edinburgh_24.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Edinburgh_24.img");
-close();
-open("D:/Hoffman/NiftiImages/Edinburgh_25.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Edinburgh_25.img");
-close();
-open("D:/Hoffman/NiftiImages/Edinburgh_26.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Edinburgh_26.img");
-close();
-open("D:/Hoffman/NiftiImages/Edinburgh_27.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Edinburgh_27.img");
-close();
-open("D:/Hoffman/NiftiImages/Edinburgh_28.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Edinburgh_28.img");
-close();
-open("D:/Hoffman/NiftiImages/Edinburgh_29.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Edinburgh_29.img");
-close();
-open("D:/Hoffman/NiftiImages/Edinburgh_30.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Edinburgh_30.img");
-close();
-open("D:/Hoffman/NiftiImages/Edinburgh_31.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Edinburgh_31.img");
-close();
-open("D:/Hoffman/NiftiImages/Glasgow_01.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Glasgow_01.img");
-close();
-open("D:/Hoffman/NiftiImages/Glasgow_02.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Glasgow_02.img");
-close();
-open("D:/Hoffman/NiftiImages/Glasgow_03.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Glasgow_03.img");
-close();
-open("D:/Hoffman/NiftiImages/Glasgow_04.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Glasgow_04.img");
-close();
-open("D:/Hoffman/NiftiImages/Glasgow_05.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Glasgow_05.img");
-close();
-open("D:/Hoffman/NiftiImages/Glasgow_06.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Glasgow_06.img");
-close();
-open("D:/Hoffman/NiftiImages/Glasgow_07.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Glasgow_07.img");
-close();
-open("D:/Hoffman/NiftiImages/Glasgow_08.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Glasgow_08.img");
-close();
-open("D:/Hoffman/NiftiImages/Glasgow_09.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Glasgow_09.img");
-close();
-open("D:/Hoffman/NiftiImages/Glasgow_10.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Glasgow_10.img");
-close();
-open("D:/Hoffman/NiftiImages/Glasgow_11.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Glasgow_11.img");
-close();
-open("D:/Hoffman/NiftiImages/Glasgow_12.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Glasgow_12.img");
-close();
-open("D:/Hoffman/NiftiImages/Glasgow_13.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Glasgow_13.img");
-close();
-open("D:/Hoffman/NiftiImages/Glasgow_14.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Glasgow_14.img");
-close();
-open("D:/Hoffman/NiftiImages/Glasgow_15.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Glasgow_15.img");
-close();
-open("D:/Hoffman/NiftiImages/Glasgow_16.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Glasgow_16.img");
-close();
-open("D:/Hoffman/NiftiImages/Glasgow_17.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Glasgow_17.img");
-close();
-open("D:/Hoffman/NiftiImages/Glasgow_18.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Glasgow_18.img");
-close();
-open("D:/Hoffman/NiftiImages/Glasgow_19.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Glasgow_19.img");
-close();
-open("D:/Hoffman/NiftiImages/Glasgow_20.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Glasgow_20.img");
-close();
-open("D:/Hoffman/NiftiImages/Glasgow_21.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Glasgow_21.img");
-close();
-open("D:/Hoffman/NiftiImages/Glasgow_22.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Glasgow_22.img");
-close();
-open("D:/Hoffman/NiftiImages/Glasgow_23.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Glasgow_23.img");
-close();
-open("D:/Hoffman/NiftiImages/Glasgow_24.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Glasgow_24.img");
-close();
-open("D:/Hoffman/NiftiImages/Glasgow_25.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Glasgow_25.img");
-close();
-open("D:/Hoffman/NiftiImages/Glasgow_26.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Glasgow_26.img");
-close();
-open("D:/Hoffman/NiftiImages/Glasgow_27.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Glasgow_27.img");
-close();
-open("D:/Hoffman/NiftiImages/Glasgow_28.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Glasgow_28.img");
-close();
-open("D:/Hoffman/NiftiImages/Glasgow_29.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Glasgow_29.img");
-close();
-open("D:/Hoffman/NiftiImages/Glasgow_30.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Glasgow_30.img");
-close();
-open("D:/Hoffman/NiftiImages/Glasgow_31.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Glasgow_31.img");
-close();
-open("D:/Hoffman/NiftiImages/Glasgow_32.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Glasgow_32.img");
-close();
-open("D:/Hoffman/NiftiImages/Glasgow_33.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Glasgow_33.img");
-close();
-open("D:/Hoffman/NiftiImages/Glasgow_34.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Glasgow_34.img");
-close();
-open("D:/Hoffman/NiftiImages/Glasgow_35.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Glasgow_35.img");
-close();
-open("D:/Hoffman/NiftiImages/Leeds_01.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Leeds_01.img");
-close();
-open("D:/Hoffman/NiftiImages/Leeds_02.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Leeds_02.img");
-close();
-open("D:/Hoffman/NiftiImages/Leeds_03.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Leeds_03.img");
-close();
-open("D:/Hoffman/NiftiImages/Leeds_04.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Leeds_04.img");
-close();
-open("D:/Hoffman/NiftiImages/Leeds_05.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Leeds_05.img");
-close();
-open("D:/Hoffman/NiftiImages/Leeds_06.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Leeds_06.img");
-close();
-open("D:/Hoffman/NiftiImages/Leeds_07.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Leeds_07.img");
-close();
-open("D:/Hoffman/NiftiImages/Leeds_08.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Leeds_08.img");
-close();
-open("D:/Hoffman/NiftiImages/Leeds_09.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Leeds_09.img");
-close();
-open("D:/Hoffman/NiftiImages/Leeds_10.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Leeds_10.img");
-close();
-open("D:/Hoffman/NiftiImages/Leeds_11.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Leeds_11.img");
-close();
-open("D:/Hoffman/NiftiImages/Leeds_12.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Leeds_12.img");
-close();
-open("D:/Hoffman/NiftiImages/Leeds_13.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Leeds_13.img");
-close();
-open("D:/Hoffman/NiftiImages/Leeds_14.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Leeds_14.img");
-close();
-open("D:/Hoffman/NiftiImages/Leeds_15.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Leeds_15.img");
-close();
-open("D:/Hoffman/NiftiImages/Leeds_16.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Leeds_16.img");
-close();
-open("D:/Hoffman/NiftiImages/Leeds_17.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Leeds_17.img");
-close();
-open("D:/Hoffman/NiftiImages/Leeds_18.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Leeds_18.img");
-close();
-open("D:/Hoffman/NiftiImages/Leeds_19.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Leeds_19.img");
-close();
-open("D:/Hoffman/NiftiImages/Leeds_20.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Leeds_20.img");
-close();
-open("D:/Hoffman/NiftiImages/Leeds_21.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Leeds_21.img");
-close();
-open("D:/Hoffman/NiftiImages/Leeds_22.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Leeds_22.img");
-close();
-open("D:/Hoffman/NiftiImages/Leeds_23.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Leeds_23.img");
-close();
-open("D:/Hoffman/NiftiImages/Leeds_24.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Leeds_24.img");
-close();
-open("D:/Hoffman/NiftiImages/Manchester_01.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Manchester_01.img");
-close();
-open("D:/Hoffman/NiftiImages/Manchester_02.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Manchester_02.img");
-close();
-open("D:/Hoffman/NiftiImages/Manchester_03.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Manchester_03.img");
-close();
-open("D:/Hoffman/NiftiImages/Manchester_04.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Manchester_04.img");
-close();
-open("D:/Hoffman/NiftiImages/Manchester_05.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Manchester_05.img");
-close();
-open("D:/Hoffman/NiftiImages/Manchester_06.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Manchester_06.img");
-close();
-open("D:/Hoffman/NiftiImages/Manchester_07.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Manchester_07.img");
-close();
-open("D:/Hoffman/NiftiImages/Manchester_08.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Manchester_08.img");
-close();
-open("D:/Hoffman/NiftiImages/Manchester_09.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Manchester_09.img");
-close();
-open("D:/Hoffman/NiftiImages/Manchester_10.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Manchester_10.img");
-close();
-open("D:/Hoffman/NiftiImages/Manchester_11.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Manchester_11.img");
-close();
-open("D:/Hoffman/NiftiImages/Manchester_12.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Manchester_12.img");
-close();
-open("D:/Hoffman/NiftiImages/Manchester_13.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Manchester_13.img");
-close();
-open("D:/Hoffman/NiftiImages/N-Staffs_02.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/N-Staffs_02.img");
-close();
-open("D:/Hoffman/NiftiImages/N-Staffs_03.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/N-Staffs_03.img");
-close();
-open("D:/Hoffman/NiftiImages/N-Staffs_04.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/N-Staffs_04.img");
-close();
-open("D:/Hoffman/NiftiImages/N-Staffs_05.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/N-Staffs_05.img");
-close();
-open("D:/Hoffman/NiftiImages/N-Staffs_06.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/N-Staffs_06.img");
-close();
-open("D:/Hoffman/NiftiImages/N-Staffs_07.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/N-Staffs_07.img");
-close();
-open("D:/Hoffman/NiftiImages/N-Staffs_08.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/N-Staffs_08.img");
-close();
-open("D:/Hoffman/NiftiImages/N-Staffs_09.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/N-Staffs_09.img");
-close();
-open("D:/Hoffman/NiftiImages/N-Staffs_10.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/N-Staffs_10.img");
-close();
-open("D:/Hoffman/NiftiImages/N-Staffs_11.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/N-Staffs_11.img");
-close();
-open("D:/Hoffman/NiftiImages/N-Staffs_12.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/N-Staffs_12.img");
-close();
-open("D:/Hoffman/NiftiImages/N-Staffs_13.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/N-Staffs_13.img");
-close();
-open("D:/Hoffman/NiftiImages/N-Staffs_14.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/N-Staffs_14.img");
-close();
-open("D:/Hoffman/NiftiImages/N-Staffs_15.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/N-Staffs_15.img");
-close();
-open("D:/Hoffman/NiftiImages/N-Staffs_16.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/N-Staffs_16.img");
-close();
-open("D:/Hoffman/NiftiImages/N-Staffs_17.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/N-Staffs_17.img");
-close();
-open("D:/Hoffman/NiftiImages/N-Staffs_18.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/N-Staffs_18.img");
-close();
-open("D:/Hoffman/NiftiImages/N-Staffs_19.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/N-Staffs_19.img");
-close();
-open("D:/Hoffman/NiftiImages/N-Staffs_20.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/N-Staffs_20.img");
-close();
-open("D:/Hoffman/NiftiImages/N-Staffs_21.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/N-Staffs_21.img");
-close();
-open("D:/Hoffman/NiftiImages/N-Staffs_22.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/N-Staffs_22.img");
-close();
-open("D:/Hoffman/NiftiImages/N-Staffs_23.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/N-Staffs_23.img");
-close();
-open("D:/Hoffman/NiftiImages/N-Staffs_24.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/N-Staffs_24.img");
-close();
-open("D:/Hoffman/NiftiImages/N-Staffs_25.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/N-Staffs_25.img");
-close();
-open("D:/Hoffman/NiftiImages/RoyalSurrey_01.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/RoyalSurrey_01.img");
-close();
-open("D:/Hoffman/NiftiImages/RoyalSurrey_02.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/RoyalSurrey_02.img");
-close();
-open("D:/Hoffman/NiftiImages/RoyalSurrey_03.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/RoyalSurrey_03.img");
-close();
-open("D:/Hoffman/NiftiImages/RoyalSurrey_04.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/RoyalSurrey_04.img");
-close();
-open("D:/Hoffman/NiftiImages/RoyalSurrey_05.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/RoyalSurrey_05.img");
-close();
-open("D:/Hoffman/NiftiImages/RoyalSurrey_06.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/RoyalSurrey_06.img");
-close();
-open("D:/Hoffman/NiftiImages/RoyalSurrey_07.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/RoyalSurrey_07.img");
-close();
-open("D:/Hoffman/NiftiImages/RoyalSurrey_08.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/RoyalSurrey_08.img");
-close();
-open("D:/Hoffman/NiftiImages/RoyalSurrey_09.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/RoyalSurrey_09.img");
-close();
-open("D:/Hoffman/NiftiImages/RoyalSurrey_10.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/RoyalSurrey_10.img");
-close();
-open("D:/Hoffman/NiftiImages/RoyalSurrey_11.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/RoyalSurrey_11.img");
-close();
-open("D:/Hoffman/NiftiImages/RoyalSurrey_12.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/RoyalSurrey_12.img");
-close();
-open("D:/Hoffman/NiftiImages/RoyalSurrey_14.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/RoyalSurrey_14.img");
-close();
-open("D:/Hoffman/NiftiImages/RoyalSurrey_15.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/RoyalSurrey_15.img");
-close();
-open("D:/Hoffman/NiftiImages/RoyalSurrey_16.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/RoyalSurrey_16.img");
-close();
-open("D:/Hoffman/NiftiImages/RoyalSurrey_17.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/RoyalSurrey_17.img");
-close();
-open("D:/Hoffman/NiftiImages/RoyalSurrey_18.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/RoyalSurrey_18.img");
-close();
-open("D:/Hoffman/NiftiImages/RoyalSurrey_19.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/RoyalSurrey_19.img");
-close();
-open("D:/Hoffman/NiftiImages/RoyalSurrey_20.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/RoyalSurrey_20.img");
-close();
-open("D:/Hoffman/NiftiImages/RoyalSurrey_21.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/RoyalSurrey_21.img");
-close();
-open("D:/Hoffman/NiftiImages/RoyalSurrey_22.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/RoyalSurrey_22.img");
-close();
-open("D:/Hoffman/NiftiImages/RoyalSurrey_23.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/RoyalSurrey_23.img");
-close();
-open("D:/Hoffman/NiftiImages/RoyalSurrey_24.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/RoyalSurrey_24.img");
-close();
-open("D:/Hoffman/NiftiImages/Sheffield_01.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Sheffield_01.img");
-close();
-open("D:/Hoffman/NiftiImages/Sheffield_02.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Sheffield_02.img");
-close();
-open("D:/Hoffman/NiftiImages/Sheffield_03.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Sheffield_03.img");
-close();
-open("D:/Hoffman/NiftiImages/Sheffield_04.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Sheffield_04.img");
-close();
-open("D:/Hoffman/NiftiImages/Sheffield_05.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Sheffield_05.img");
-close();
-open("D:/Hoffman/NiftiImages/Sheffield_06.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Sheffield_06.img");
-close();
-open("D:/Hoffman/NiftiImages/Sheffield_07.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Sheffield_07.img");
-close();
-open("D:/Hoffman/NiftiImages/Sheffield_08.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Sheffield_08.img");
-close();
-open("D:/Hoffman/NiftiImages/Sheffield_09.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Sheffield_09.img");
-close();
-open("D:/Hoffman/NiftiImages/Sheffield_10.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Sheffield_10.img");
-close();
-open("D:/Hoffman/NiftiImages/Sheffield_11.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Sheffield_11.img");
-close();
-open("D:/Hoffman/NiftiImages/Sheffield_12.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Sheffield_12.img");
-close();
-open("D:/Hoffman/NiftiImages/Sheffield_13.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Sheffield_13.img");
-close();
-open("D:/Hoffman/NiftiImages/Sheffield_14.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Sheffield_14.img");
-close();
-open("D:/Hoffman/NiftiImages/Sheffield_15.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Sheffield_15.img");
-close();
-open("D:/Hoffman/NiftiImages/Sheffield_16.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Sheffield_16.img");
-close();
-open("D:/Hoffman/NiftiImages/Sheffield_17.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Sheffield_17.img");
-close();
-open("D:/Hoffman/NiftiImages/Sheffield_18.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Sheffield_18.img");
-close();
-open("D:/Hoffman/NiftiImages/Sheffield_19.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Sheffield_19.img");
-close();
-open("D:/Hoffman/NiftiImages/Sheffield_20.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Sheffield_20.img");
-close();
-open("D:/Hoffman/NiftiImages/Sheffield_21.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Sheffield_21.img");
-close();
-open("D:/Hoffman/NiftiImages/Sheffield_22.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Sheffield_22.img");
-close();
-open("D:/Hoffman/NiftiImages/Sheffield_23.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Sheffield_23.img");
-close();
-open("D:/Hoffman/NiftiImages/Sheffield_24.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/Sheffield_24.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_01.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_01.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_02.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_02.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_03.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_03.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_04.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_04.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_05.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_05.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_06.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_06.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_07.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_07.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_08.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_08.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_09.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_09.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_10.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_10.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_11.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_11.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_12.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_12.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_13.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_13.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_14.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_14.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_15.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_15.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_16.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_16.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_17.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_17.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_18.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_18.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_19.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_19.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_20.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_20.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_21.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_21.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_22.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_22.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_23.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_23.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_24.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_24.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_25.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_25.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_26.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_26.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_27.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_27.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_28.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_28.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_29.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_29.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_30.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_30.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_31.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_31.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_32.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_32.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_33.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_33.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_34.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_34.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_35.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_35.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_36.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_36.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_37.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_37.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_38.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_38.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_39.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_39.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_40.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_40.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_41.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_41.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_42.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_42.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_43.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_43.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_44.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_44.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_45.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_45.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_46.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_46.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_47.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_47.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_48.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_48.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_49.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_49.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_50.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_50.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_51.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_51.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_52.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_52.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_53.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_53.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_54.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_54.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_55.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_55.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_56.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_56.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_57.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_57.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_58.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_58.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_59.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_59.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_60.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_60.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_61.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_61.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_62.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_62.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_63.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_63.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_64.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_64.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_65.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_65.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_66.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_66.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_67.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_67.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_68.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_68.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_69.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_69.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_70.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_70.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_71.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_71.img");
-close();
-open("D:/Hoffman/NiftiImages/StThomas_72.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/StThomas_72.img");
-close();
-open("D:/Hoffman/NiftiImages/UCL-UCLH_01.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/UCL-UCLH_01.img");
-close();
-open("D:/Hoffman/NiftiImages/UCL-UCLH_02.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/UCL-UCLH_02.img");
-close();
-open("D:/Hoffman/NiftiImages/UCL-UCLH_03.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/UCL-UCLH_03.img");
-close();
-open("D:/Hoffman/NiftiImages/UCL-UCLH_04.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/UCL-UCLH_04.img");
-close();
-open("D:/Hoffman/NiftiImages/UCL-UCLH_05.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/UCL-UCLH_05.img");
-close();
-open("D:/Hoffman/NiftiImages/UCL-UCLH_06.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/UCL-UCLH_06.img");
-close();
-open("D:/Hoffman/NiftiImages/UCL-UCLH_07.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/UCL-UCLH_07.img");
-close();
-open("D:/Hoffman/NiftiImages/UCL-UCLH_08.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/UCL-UCLH_08.img");
-close();
-open("D:/Hoffman/NiftiImages/UCL-UCLH_09.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/UCL-UCLH_09.img");
-close();
-open("D:/Hoffman/NiftiImages/UCL-UCLH_10.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/UCL-UCLH_10.img");
-close();
-open("D:/Hoffman/NiftiImages/UCL-UCLH_11.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/UCL-UCLH_11.img");
-close();
-open("D:/Hoffman/NiftiImages/UCL-UCLH_12.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/UCL-UCLH_12.img");
-close();
-open("D:/Hoffman/NiftiImages/UCL-UCLH_13.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/UCL-UCLH_13.img");
-close();
-open("D:/Hoffman/NiftiImages/UCL-UCLH_14.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/UCL-UCLH_14.img");
-close();
-open("D:/Hoffman/NiftiImages/UCL-UCLH_15.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/UCL-UCLH_15.img");
-close();
-open("D:/Hoffman/NiftiImages/UCL-UCLH_16.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/UCL-UCLH_16.img");
-close();
-open("D:/Hoffman/NiftiImages/UCL-UCLH_17.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/UCL-UCLH_17.img");
-close();
-open("D:/Hoffman/NiftiImages/UCL-UCLH_18.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/UCL-UCLH_18.img");
-close();
-open("D:/Hoffman/NiftiImages/UCL-UCLH_19.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/UCL-UCLH_19.img");
-close();
-open("D:/Hoffman/NiftiImages/UCL-UCLH_20.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/UCL-UCLH_20.img");
-close();
-open("D:/Hoffman/NiftiImages/UCL-UCLH_21.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/UCL-UCLH_21.img");
-close();
-open("D:/Hoffman/NiftiImages/UCL-UCLH_22.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/UCL-UCLH_22.img");
-close();
-open("D:/Hoffman/NiftiImages/UCL-UCLH_23.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/UCL-UCLH_23.img");
-close();
-open("D:/Hoffman/NiftiImages/UCL-UCLH_24.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/UCL-UCLH_24.img");
-close();
-open("D:/Hoffman/NiftiImages/UCL-UCLH_25.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/UCL-UCLH_25.img");
-close();
-open("D:/Hoffman/NiftiImages/UCL-UCLH_26.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/UCL-UCLH_26.img");
-close();
-open("D:/Hoffman/NiftiImages/UCL-UCLH_27.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/UCL-UCLH_27.img");
-close();
-open("D:/Hoffman/NiftiImages/UCL-UCLH_28.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/UCL-UCLH_28.img");
-close();
-open("D:/Hoffman/NiftiImages/WMIC_01.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/WMIC_01.img");
-close();
-open("D:/Hoffman/NiftiImages/WMIC_02.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/WMIC_02.img");
-close();
-open("D:/Hoffman/NiftiImages/WMIC_03.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/WMIC_03.img");
-close();
-open("D:/Hoffman/NiftiImages/WMIC_04.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/WMIC_04.img");
-close();
-open("D:/Hoffman/NiftiImages/WMIC_05.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/WMIC_05.img");
-close();
-open("D:/Hoffman/NiftiImages/WMIC_06.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/WMIC_06.img");
-close();
-open("D:/Hoffman/NiftiImages/WMIC_07.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/WMIC_07.img");
-close();
-open("D:/Hoffman/NiftiImages/WMIC_08.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/WMIC_08.img");
-close();
-open("D:/Hoffman/NiftiImages/WMIC_09.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/WMIC_09.img");
-close();
-open("D:/Hoffman/NiftiImages/WMIC_10.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/WMIC_10.img");
-close();
-open("D:/Hoffman/NiftiImages/WMIC_11.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/WMIC_11.img");
-close();
-open("D:/Hoffman/NiftiImages/WMIC_12.nii");
-run("Analyze... ", "save=D:/Hoffman/AnalyzeImages/WMIC_12.img");
+
+File.openSequence("D:/Hoffman/_Aberdeen/IMANOVA_BRAIN+SKULL/ARI PARAMS/Frame1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Aberdeen_01.img");
+close();
+
+File.openSequence("D:/Hoffman/_Aberdeen/IMANOVA_BRAIN+SKULL/ARI PARAMS/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Aberdeen_02.img");
+close();
+
+File.openSequence("D:/Hoffman/_Aberdeen/IMANOVA_BRAIN+SKULL/ARI PARAMS/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Aberdeen_03.img");
+close();
+
+File.openSequence("D:/Hoffman/_Aberdeen/IMANOVA_BRAIN+SKULL/ARI PARAMS/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Aberdeen_04.img");
+close();
+
+File.openSequence("D:/Hoffman/_Aberdeen/IMANOVA_BRAIN+SKULL/ARI PARAMS/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Aberdeen_05.img");
+close();
+
+File.openSequence("D:/Hoffman/_Aberdeen/IMANOVA_BRAIN+SKULL/ARI PARAMS/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Aberdeen_06.img");
+close();
+
+File.openSequence("D:/Hoffman/_Aberdeen/IMANOVA_BRAIN+SKULL/IMANOVA PARAMS/Frame1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Aberdeen_07.img");
+close();
+
+File.openSequence("D:/Hoffman/_Aberdeen/IMANOVA_BRAIN+SKULL/IMANOVA PARAMS/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Aberdeen_08.img");
+close();
+
+File.openSequence("D:/Hoffman/_Aberdeen/IMANOVA_BRAIN+SKULL/IMANOVA PARAMS/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Aberdeen_09.img");
+close();
+
+File.openSequence("D:/Hoffman/_Aberdeen/IMANOVA_BRAIN+SKULL/IMANOVA PARAMS/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Aberdeen_10.img");
+close();
+
+File.openSequence("D:/Hoffman/_Aberdeen/IMANOVA_BRAIN+SKULL/IMANOVA PARAMS/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Aberdeen_11.img");
+close();
+
+File.openSequence("D:/Hoffman/_Aberdeen/IMANOVA_BRAIN+SKULL/IMANOVA PARAMS/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Aberdeen_12.img");
+close();
+
+File.openSequence("D:/Hoffman/_Aberdeen/IMANOVA_BRAIN_NO_SKULL/ARI PARAMS/Frame1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Aberdeen_13.img");
+close();
+
+File.openSequence("D:/Hoffman/_Aberdeen/IMANOVA_BRAIN_NO_SKULL/ARI PARAMS/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Aberdeen_14.img");
+close();
+
+File.openSequence("D:/Hoffman/_Aberdeen/IMANOVA_BRAIN_NO_SKULL/ARI PARAMS/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Aberdeen_15.img");
+close();
+
+File.openSequence("D:/Hoffman/_Aberdeen/IMANOVA_BRAIN_NO_SKULL/ARI PARAMS/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Aberdeen_16.img");
+close();
+
+File.openSequence("D:/Hoffman/_Aberdeen/IMANOVA_BRAIN_NO_SKULL/ARI PARAMS/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Aberdeen_17.img");
+close();
+
+File.openSequence("D:/Hoffman/_Aberdeen/IMANOVA_BRAIN_NO_SKULL/ARI PARAMS/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Aberdeen_18.img");
+close();
+
+File.openSequence("D:/Hoffman/_Aberdeen/IMANOVA_BRAIN_NO_SKULL/IMANOVA PARAMS/Frame1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Aberdeen_19.img");
+close();
+
+File.openSequence("D:/Hoffman/_Aberdeen/IMANOVA_BRAIN_NO_SKULL/IMANOVA PARAMS/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Aberdeen_20.img");
+close();
+
+File.openSequence("D:/Hoffman/_Aberdeen/IMANOVA_BRAIN_NO_SKULL/IMANOVA PARAMS/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Aberdeen_21.img");
+close();
+
+File.openSequence("D:/Hoffman/_Aberdeen/IMANOVA_BRAIN_NO_SKULL/IMANOVA PARAMS/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Aberdeen_22.img");
+close();
+
+File.openSequence("D:/Hoffman/_Aberdeen/IMANOVA_BRAIN_NO_SKULL/IMANOVA PARAMS/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Aberdeen_23.img");
+close();
+
+File.openSequence("D:/Hoffman/_Aberdeen/IMANOVA_BRAIN_NO_SKULL/IMANOVA PARAMS/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Aberdeen_24.img");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Local/Hoffmann Clinical/Frame1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Belfast_01.img");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Local/Hoffmann Clinical/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Belfast_02.img");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Local/Hoffmann Clinical/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Belfast_03.img");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Local/Hoffmann Clinical/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Belfast_04.img");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Local/Hoffmann Clinical/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Belfast_05.img");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Local/Hoffmann Clinical/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Belfast_06.img");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Local/ISGARS/0/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Belfast_07.img");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Local/ISGARS/0/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Belfast_08.img");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Local/ISGARS/0/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Belfast_09.img");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Local/ISGARS/0/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Belfast_10.img");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Local/ISGARS/0/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Belfast_11.img");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Local/ISGARS/0/Frame7");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Belfast_12.img");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Standard/Hoffmann standard unlisted/Frame1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Belfast_13.img");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Standard/Hoffmann standard unlisted/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Belfast_14.img");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Standard/Hoffmann standard unlisted/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Belfast_15.img");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Standard/Hoffmann standard unlisted/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Belfast_16.img");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Standard/Hoffmann standard unlisted/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Belfast_17.img");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Standard/Hoffmann standard unlisted/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Belfast_18.img");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Standard/Hoffmann std clinical/Frame1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Belfast_19.img");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Standard/Hoffmann std clinical/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Belfast_20.img");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Standard/Hoffmann std clinical/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Belfast_21.img");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Standard/Hoffmann std clinical/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Belfast_22.img");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Standard/Hoffmann std clinical/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Belfast_23.img");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Standard/Hoffmann std clinical/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Belfast_24.img");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Standard/ISGARS/0/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Belfast_25.img");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Standard/ISGARS/0/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Belfast_26.img");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Standard/ISGARS/0/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Belfast_27.img");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Standard/ISGARS/0/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Belfast_28.img");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Standard/ISGARS/0/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Belfast_29.img");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Standard/ISGARS/0/Frame7");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Belfast_30.img");
+close();
+
+File.openSequence("D:/Hoffman/_Cambridge/ISGARS/NoSkull/0-5 MIN");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Cambridge_01.img");
+close();
+
+File.openSequence("D:/Hoffman/_Cambridge/ISGARS/NoSkull/10-15 MINS");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Cambridge_02.img");
+close();
+
+File.openSequence("D:/Hoffman/_Cambridge/ISGARS/NoSkull/15-20 MINS");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Cambridge_03.img");
+close();
+
+File.openSequence("D:/Hoffman/_Cambridge/ISGARS/NoSkull/20-25 MINS");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Cambridge_04.img");
+close();
+
+File.openSequence("D:/Hoffman/_Cambridge/ISGARS/NoSkull/25-30 MINS");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Cambridge_05.img");
+close();
+
+File.openSequence("D:/Hoffman/_Cambridge/ISGARS/NoSkull/5-10 MIN");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Cambridge_06.img");
+close();
+
+File.openSequence("D:/Hoffman/_Cambridge/ISGARS/Skull/0-5 MINS");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Cambridge_07.img");
+close();
+
+File.openSequence("D:/Hoffman/_Cambridge/ISGARS/Skull/10-15 MINS");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Cambridge_08.img");
+close();
+
+File.openSequence("D:/Hoffman/_Cambridge/ISGARS/Skull/15-20 MINS");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Cambridge_09.img");
+close();
+
+File.openSequence("D:/Hoffman/_Cambridge/ISGARS/Skull/20-25 MINS");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Cambridge_10.img");
+close();
+
+File.openSequence("D:/Hoffman/_Cambridge/ISGARS/Skull/25-30 MINS");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Cambridge_11.img");
+close();
+
+File.openSequence("D:/Hoffman/_Cambridge/ISGARS/Skull/5-10 MINS");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Cambridge_12.img");
+close();
+
+File.openSequence("D:/Hoffman/_Cambridge/NoSkull/0-5 MIN");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Cambridge_13.img");
+close();
+
+File.openSequence("D:/Hoffman/_Cambridge/NoSkull/10-15 MINS");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Cambridge_14.img");
+close();
+
+File.openSequence("D:/Hoffman/_Cambridge/NoSkull/15-20 MINS");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Cambridge_15.img");
+close();
+
+File.openSequence("D:/Hoffman/_Cambridge/NoSkull/20-25 MINS");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Cambridge_16.img");
+close();
+
+File.openSequence("D:/Hoffman/_Cambridge/NoSkull/25-30 MINS");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Cambridge_17.img");
+close();
+
+File.openSequence("D:/Hoffman/_Cambridge/NoSkull/5-10 MIN");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Cambridge_18.img");
+close();
+
+File.openSequence("D:/Hoffman/_Cambridge/Skull/0-5 MINS");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Cambridge_19.img");
+close();
+
+File.openSequence("D:/Hoffman/_Cambridge/Skull/10-15 MINS");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Cambridge_20.img");
+close();
+
+File.openSequence("D:/Hoffman/_Cambridge/Skull/15-20 MINS");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Cambridge_21.img");
+close();
+
+File.openSequence("D:/Hoffman/_Cambridge/Skull/20-25 MINS");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Cambridge_22.img");
+close();
+
+File.openSequence("D:/Hoffman/_Cambridge/Skull/25-30 MINS");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Cambridge_23.img");
+close();
+
+File.openSequence("D:/Hoffman/_Cambridge/Skull/5-10 MINS");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Cambridge_24.img");
+close();
+
+File.openSequence("D:/Hoffman/_Cardiff/NoSkull/NO SKULL - PETIC PARAMETERS/Frame1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Cardiff_01.img");
+close();
+
+File.openSequence("D:/Hoffman/_Cardiff/NoSkull/NO SKULL - PETIC PARAMETERS/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Cardiff_02.img");
+close();
+
+File.openSequence("D:/Hoffman/_Cardiff/NoSkull/NO SKULL - PETIC PARAMETERS/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Cardiff_03.img");
+close();
+
+File.openSequence("D:/Hoffman/_Cardiff/NoSkull/NO SKULL - PETIC PARAMETERS/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Cardiff_04.img");
+close();
+
+File.openSequence("D:/Hoffman/_Cardiff/NoSkull/NO SKULL - PETIC PARAMETERS/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Cardiff_05.img");
+close();
+
+File.openSequence("D:/Hoffman/_Cardiff/NoSkull/NO SKULL - PETIC PARAMETERS/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Cardiff_06.img");
+close();
+
+File.openSequence("D:/Hoffman/_Cardiff/NoSkull/NO SKULL - STANDARD PARAMETER/Frame1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Cardiff_07.img");
+close();
+
+File.openSequence("D:/Hoffman/_Cardiff/NoSkull/NO SKULL - STANDARD PARAMETER/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Cardiff_08.img");
+close();
+
+File.openSequence("D:/Hoffman/_Cardiff/NoSkull/NO SKULL - STANDARD PARAMETER/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Cardiff_09.img");
+close();
+
+File.openSequence("D:/Hoffman/_Cardiff/NoSkull/NO SKULL - STANDARD PARAMETER/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Cardiff_10.img");
+close();
+
+File.openSequence("D:/Hoffman/_Cardiff/NoSkull/NO SKULL - STANDARD PARAMETER/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Cardiff_11.img");
+close();
+
+File.openSequence("D:/Hoffman/_Cardiff/NoSkull/NO SKULL - STANDARD PARAMETER/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Cardiff_12.img");
+close();
+
+File.openSequence("D:/Hoffman/_Cardiff/Skull/SKULL PETIC RECON/Frame1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Cardiff_13.img");
+close();
+
+File.openSequence("D:/Hoffman/_Cardiff/Skull/SKULL PETIC RECON/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Cardiff_14.img");
+close();
+
+File.openSequence("D:/Hoffman/_Cardiff/Skull/SKULL PETIC RECON/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Cardiff_15.img");
+close();
+
+File.openSequence("D:/Hoffman/_Cardiff/Skull/SKULL PETIC RECON/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Cardiff_16.img");
+close();
+
+File.openSequence("D:/Hoffman/_Cardiff/Skull/SKULL PETIC RECON/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Cardiff_17.img");
+close();
+
+File.openSequence("D:/Hoffman/_Cardiff/Skull/SKULL PETIC RECON/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Cardiff_18.img");
+close();
+
+File.openSequence("D:/Hoffman/_Cardiff/Skull/SKULL STANDARD RECON/Frame1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Cardiff_19.img");
+close();
+
+File.openSequence("D:/Hoffman/_Cardiff/Skull/SKULL STANDARD RECON/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Cardiff_20.img");
+close();
+
+File.openSequence("D:/Hoffman/_Cardiff/Skull/SKULL STANDARD RECON/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Cardiff_21.img");
+close();
+
+File.openSequence("D:/Hoffman/_Cardiff/Skull/SKULL STANDARD RECON/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Cardiff_22.img");
+close();
+
+File.openSequence("D:/Hoffman/_Cardiff/Skull/SKULL STANDARD RECON/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Cardiff_23.img");
+close();
+
+File.openSequence("D:/Hoffman/_Cardiff/Skull/SKULL STANDARD RECON/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Cardiff_24.img");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_NoSkull2_2014_06_13/Hoffman_CTAC-50cm_3x20_128_25cm_4mm/Frame1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Christie_01.img");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_NoSkull2_2014_06_13/Hoffman_CTAC-50cm_3x20_128_25cm_4mm/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Christie_02.img");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_NoSkull2_2014_06_13/Hoffman_CTAC-50cm_3x20_128_25cm_4mm/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Christie_03.img");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_NoSkull2_2014_06_13/Hoffman_CTAC-50cm_3x20_128_25cm_4mm/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Christie_04.img");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_NoSkull2_2014_06_13/Hoffman_CTAC-50cm_3x20_128_25cm_4mm/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Christie_05.img");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_NoSkull2_2014_06_13/Hoffman_CTAC-50cm_3x20_128_25cm_4mm/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Christie_06.img");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_NoSkull2_2014_06_13/Standard_CTAC_2x20_128_30cm_2-14mm/Frame1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Christie_07.img");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_NoSkull2_2014_06_13/Standard_CTAC_2x20_128_30cm_2-14mm/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Christie_08.img");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_NoSkull2_2014_06_13/Standard_CTAC_2x20_128_30cm_2-14mm/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Christie_09.img");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_NoSkull2_2014_06_13/Standard_CTAC_2x20_128_30cm_2-14mm/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Christie_10.img");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_NoSkull2_2014_06_13/Standard_CTAC_2x20_128_30cm_2-14mm/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Christie_11.img");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_NoSkull2_2014_06_13/Standard_CTAC_2x20_128_30cm_2-14mm/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Christie_12.img");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_NoSkull_2014_06_09/Hoffman_CTAC-50cm_3x20_128_25cm_4mm/Frame1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Christie_13.img");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_NoSkull_2014_06_09/Hoffman_CTAC-50cm_3x20_128_25cm_4mm/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Christie_14.img");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_NoSkull_2014_06_09/Hoffman_CTAC-50cm_3x20_128_25cm_4mm/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Christie_15.img");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_NoSkull_2014_06_09/Hoffman_CTAC-50cm_3x20_128_25cm_4mm/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Christie_16.img");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_NoSkull_2014_06_09/Hoffman_CTAC-50cm_3x20_128_25cm_4mm/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Christie_17.img");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_NoSkull_2014_06_09/Hoffman_CTAC-50cm_3x20_128_25cm_4mm/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Christie_18.img");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_NoSkull_2014_06_09/Standard_CTAC_2X20_128_30cm_2-14mm/Frame1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Christie_19.img");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_NoSkull_2014_06_09/Standard_CTAC_2X20_128_30cm_2-14mm/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Christie_20.img");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_NoSkull_2014_06_09/Standard_CTAC_2X20_128_30cm_2-14mm/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Christie_21.img");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_NoSkull_2014_06_09/Standard_CTAC_2X20_128_30cm_2-14mm/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Christie_22.img");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_NoSkull_2014_06_09/Standard_CTAC_2X20_128_30cm_2-14mm/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Christie_23.img");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_NoSkull_2014_06_09/Standard_CTAC_2X20_128_30cm_2-14mm/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Christie_24.img");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_Skull_2014_06_09/Hoffman_CTAC-50cm_3x20_128_25cm_4mm/Frame1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Christie_25.img");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_Skull_2014_06_09/Hoffman_CTAC-50cm_3x20_128_25cm_4mm/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Christie_26.img");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_Skull_2014_06_09/Hoffman_CTAC-50cm_3x20_128_25cm_4mm/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Christie_27.img");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_Skull_2014_06_09/Hoffman_CTAC-50cm_3x20_128_25cm_4mm/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Christie_28.img");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_Skull_2014_06_09/Hoffman_CTAC-50cm_3x20_128_25cm_4mm/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Christie_29.img");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_Skull_2014_06_09/Hoffman_CTAC-50cm_3x20_128_25cm_4mm/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Christie_30.img");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_Skull_2014_06_09/Standard_CTAC_2x20_128_30cm_2-14mm/Frame1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Christie_31.img");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_Skull_2014_06_09/Standard_CTAC_2x20_128_30cm_2-14mm/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Christie_32.img");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_Skull_2014_06_09/Standard_CTAC_2x20_128_30cm_2-14mm/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Christie_33.img");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_Skull_2014_06_09/Standard_CTAC_2x20_128_30cm_2-14mm/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Christie_34.img");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_Skull_2014_06_09/Standard_CTAC_2x20_128_30cm_2-14mm/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Christie_35.img");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_Skull_2014_06_09/Standard_CTAC_2x20_128_30cm_2-14mm/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Christie_36.img");
+close();
+
+File.openSequence("D:/Hoffman/_Dundee/#20_DD_Hoffman_1x5_Skull");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Dundee_01.img");
+close();
+
+File.openSequence("D:/Hoffman/_Dundee/#21_DD_Hoffman_2x5_Skull");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Dundee_02.img");
+close();
+
+File.openSequence("D:/Hoffman/_Dundee/#22_DD_Hoffman_3x5_Skull");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Dundee_03.img");
+close();
+
+File.openSequence("D:/Hoffman/_Dundee/#23_DD_Hoffman_4x5_Skull");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Dundee_04.img");
+close();
+
+File.openSequence("D:/Hoffman/_Dundee/#24_DD_Hoffman_5x5_Skull");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Dundee_05.img");
+close();
+
+File.openSequence("D:/Hoffman/_Dundee/#25_DD_Hoffman_6x5_Skull");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Dundee_06.img");
+close();
+
+File.openSequence("D:/Hoffman/_Dundee/#26_DD_Hoffman_1x5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Dundee_07.img");
+close();
+
+File.openSequence("D:/Hoffman/_Dundee/#26_DD_Hoffman_2x5 Clinical_Skull");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Dundee_08.img");
+close();
+
+File.openSequence("D:/Hoffman/_Dundee/#27_DD_Hoffman_2x5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Dundee_09.img");
+close();
+
+File.openSequence("D:/Hoffman/_Dundee/#27_DD_Hoffman_3x5 Clinical_Skull");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Dundee_10.img");
+close();
+
+File.openSequence("D:/Hoffman/_Dundee/#28_DD_Hoffman_3x5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Dundee_11.img");
+close();
+
+File.openSequence("D:/Hoffman/_Dundee/#28_DD_Hoffman_4x5 Clinical_Skull");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Dundee_12.img");
+close();
+
+File.openSequence("D:/Hoffman/_Dundee/#29_DD_Hoffman_4x5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Dundee_13.img");
+close();
+
+File.openSequence("D:/Hoffman/_Dundee/#29_DD_Hoffman_5x5 Clinical_Skull");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Dundee_14.img");
+close();
+
+File.openSequence("D:/Hoffman/_Dundee/#30_DD_Hoffman_5x5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Dundee_15.img");
+close();
+
+File.openSequence("D:/Hoffman/_Dundee/#30_DD_Hoffman_6x5 Clinical_Skull");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Dundee_16.img");
+close();
+
+File.openSequence("D:/Hoffman/_Dundee/#31_DD_Hoffman_1x5 Clinical_Skull");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Dundee_17.img");
+close();
+
+File.openSequence("D:/Hoffman/_Dundee/#31_DD_Hoffman_6x5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Dundee_18.img");
+close();
+
+File.openSequence("D:/Hoffman/_Dundee/#32_DD_Hoffman_1x5 Clinical");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Dundee_19.img");
+close();
+
+File.openSequence("D:/Hoffman/_Dundee/#33_DD_Hoffman_2x5 Clinical");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Dundee_20.img");
+close();
+
+File.openSequence("D:/Hoffman/_Dundee/#34_DD_Hoffman_3x5 Clinical");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Dundee_21.img");
+close();
+
+File.openSequence("D:/Hoffman/_Dundee/#35_DD_Hoffman_4x5 Clinical");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Dundee_22.img");
+close();
+
+File.openSequence("D:/Hoffman/_Dundee/#36_DD_Hoffman_5x5 Clinical");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Dundee_23.img");
+close();
+
+File.openSequence("D:/Hoffman/_Dundee/#37_DD_Hoffman_6x5 Clinical");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Dundee_24.img");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#10_Hoff skull OSEM 3i24s 4mm 400 z1/Frame1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Edinburgh_01.img");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#10_Hoff skull OSEM 3i24s 4mm 400 z1/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Edinburgh_02.img");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#10_Hoff skull OSEM 3i24s 4mm 400 z1/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Edinburgh_03.img");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#10_Hoff skull OSEM 3i24s 4mm 400 z1/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Edinburgh_04.img");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#10_Hoff skull OSEM 3i24s 4mm 400 z1/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Edinburgh_05.img");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#10_Hoff skull OSEM 3i24s 4mm 400 z1/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Edinburgh_06.img");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#11_Hoff AC OSEM+TOF 4i21s 4mm 400 z2/Frame1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Edinburgh_07.img");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#11_Hoff AC OSEM+TOF 4i21s 4mm 400 z2/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Edinburgh_08.img");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#11_Hoff AC OSEM+TOF 4i21s 4mm 400 z2/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Edinburgh_09.img");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#11_Hoff AC OSEM+TOF 4i21s 4mm 400 z2/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Edinburgh_10.img");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#11_Hoff AC OSEM+TOF 4i21s 4mm 400 z2/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Edinburgh_11.img");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#11_Hoff AC OSEM+TOF 4i21s 4mm 400 z2/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Edinburgh_12.img");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#12_Hoff AC OSEM 3i24s 4mm 400 z1/Frame1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Edinburgh_13.img");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#12_Hoff AC OSEM 3i24s 4mm 400 z1/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Edinburgh_14.img");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#12_Hoff AC OSEM 3i24s 4mm 400 z1/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Edinburgh_15.img");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#12_Hoff AC OSEM 3i24s 4mm 400 z1/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Edinburgh_16.img");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#12_Hoff AC OSEM 3i24s 4mm 400 z1/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Edinburgh_17.img");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#12_Hoff AC OSEM 3i24s 4mm 400 z1/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Edinburgh_18.img");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#7_Hoff skull AC OSEM 3i24s 4mm 128 z1/Frame1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Edinburgh_19.img");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#7_Hoff skull AC OSEM 3i24s 4mm 128 z1/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Edinburgh_20.img");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#7_Hoff skull AC OSEM 3i24s 4mm 128 z1/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Edinburgh_21.img");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#7_Hoff skull AC OSEM 3i24s 4mm 128 z1/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Edinburgh_22.img");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#7_Hoff skull AC OSEM 3i24s 4mm 128 z1/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Edinburgh_23.img");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#7_Hoff skull AC OSEM 3i24s 4mm 128 z1/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Edinburgh_24.img");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#9_Hoff AC OSEM 3i24s 4mm 128 z1/Frame1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Edinburgh_25.img");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#9_Hoff AC OSEM 3i24s 4mm 128 z1/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Edinburgh_26.img");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#9_Hoff AC OSEM 3i24s 4mm 128 z1/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Edinburgh_27.img");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#9_Hoff AC OSEM 3i24s 4mm 128 z1/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Edinburgh_28.img");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#9_Hoff AC OSEM 3i24s 4mm 128 z1/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Edinburgh_29.img");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#9_Hoff AC OSEM 3i24s 4mm 128 z1/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Edinburgh_30.img");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#9_Hoff skull AC OSEM+TOF 4i21s 4mm 400 z2/Frame1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Edinburgh_31.img");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#9_Hoff skull AC OSEM+TOF 4i21s 4mm 400 z2/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Edinburgh_32.img");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#9_Hoff skull AC OSEM+TOF 4i21s 4mm 400 z2/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Edinburgh_33.img");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#9_Hoff skull AC OSEM+TOF 4i21s 4mm 400 z2/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Edinburgh_34.img");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#9_Hoff skull AC OSEM+TOF 4i21s 4mm 400 z2/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Edinburgh_35.img");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#9_Hoff skull AC OSEM+TOF 4i21s 4mm 400 z2/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Edinburgh_36.img");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/NoSkull/Glasgow PET 0-5m NO Skull");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Glasgow_01.img");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/NoSkull/Glasgow PET 10-15m NO Skull");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Glasgow_02.img");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/NoSkull/Glasgow PET 15-20m NO Skull");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Glasgow_03.img");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/NoSkull/Glasgow PET 20-25m NO Skull");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Glasgow_04.img");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/NoSkull/Glasgow PET 25-30m NO Skull");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Glasgow_05.img");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/NoSkull/Glasgow PET 5-10m NO Skull");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Glasgow_06.img");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/NoSkull/UK PET 0-5m NO Skull");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Glasgow_07.img");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/NoSkull/UK PET 0-5m NO Skull NToF");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Glasgow_08.img");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/NoSkull/UK PET 10-15m NO Skull");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Glasgow_09.img");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/NoSkull/UK PET 10-15m NO Skull NToF");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Glasgow_10.img");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/NoSkull/UK PET 15-20m NO Skull");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Glasgow_11.img");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/NoSkull/UK PET 15-20m NO Skull NToF");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Glasgow_12.img");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/NoSkull/UK PET 20-25m NO Skull");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Glasgow_13.img");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/NoSkull/UK PET 20-25m NO Skull NToF");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Glasgow_14.img");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/NoSkull/UK PET 25-30m NO Skull");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Glasgow_15.img");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/NoSkull/UK PET 25-30m NO Skull NToF");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Glasgow_16.img");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/NoSkull/UK PET 5-10m NO Skull");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Glasgow_17.img");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/NoSkull/UK PET 5-10m NO Skull NToF");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Glasgow_18.img");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/Skull/Glasgow PET 0-5m Skull");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Glasgow_19.img");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/Skull/Glasgow PET 10-15m Skull");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Glasgow_20.img");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/Skull/Glasgow PET 15-20m Skull");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Glasgow_21.img");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/Skull/Glasgow PET 20-25m Skull");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Glasgow_22.img");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/Skull/Glasgow PET 25-30m Skull");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Glasgow_23.img");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/Skull/Glasgow PET 5-10m Skull");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Glasgow_24.img");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/Skull/UK PET 0-5m Skull");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Glasgow_25.img");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/Skull/UK PET 0-5m Skull NToF");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Glasgow_26.img");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/Skull/UK PET 10-15m Skull");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Glasgow_27.img");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/Skull/UK PET 15-20m Skull");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Glasgow_29.img");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/Skull/UK PET 15-20m Skull NToF");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Glasgow_30.img");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/Skull/UK PET 20-25m Skull");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Glasgow_31.img");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/Skull/UK PET 20-25m Skull NToF");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Glasgow_32.img");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/Skull/UK PET 25-30m Skull");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Glasgow_33.img");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/Skull/UK PET 25-30m Skull NToF");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Glasgow_34.img");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/Skull/UK PET 5-10m Skull");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Glasgow_35.img");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/Skull/UK PET 5-10m Skull NToF");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Glasgow_36.img");
+close();
+
+File.openSequence("D:/Hoffman/_Leeds/Hoffman phantom/NoSkull/#401_6x 5min dynamic/Frame1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Leeds_01.img");
+close();
+
+File.openSequence("D:/Hoffman/_Leeds/Hoffman phantom/NoSkull/#401_6x 5min dynamic/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Leeds_02.img");
+close();
+
+File.openSequence("D:/Hoffman/_Leeds/Hoffman phantom/NoSkull/#401_6x 5min dynamic/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Leeds_03.img");
+close();
+
+File.openSequence("D:/Hoffman/_Leeds/Hoffman phantom/NoSkull/#401_6x 5min dynamic/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Leeds_04.img");
+close();
+
+File.openSequence("D:/Hoffman/_Leeds/Hoffman phantom/NoSkull/#401_6x 5min dynamic/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Leeds_05.img");
+close();
+
+File.openSequence("D:/Hoffman/_Leeds/Hoffman phantom/NoSkull/#401_6x 5min dynamic/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Leeds_06.img");
+close();
+
+File.openSequence("D:/Hoffman/_Leeds/Hoffman phantom/NoSkull/#402_6X 5MIN DYN (CLINICAL)/Frame1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Leeds_07.img");
+close();
+
+File.openSequence("D:/Hoffman/_Leeds/Hoffman phantom/NoSkull/#402_6X 5MIN DYN (CLINICAL)/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Leeds_08.img");
+close();
+
+File.openSequence("D:/Hoffman/_Leeds/Hoffman phantom/NoSkull/#402_6X 5MIN DYN (CLINICAL)/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Leeds_09.img");
+close();
+
+File.openSequence("D:/Hoffman/_Leeds/Hoffman phantom/NoSkull/#402_6X 5MIN DYN (CLINICAL)/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Leeds_10.img");
+close();
+
+File.openSequence("D:/Hoffman/_Leeds/Hoffman phantom/NoSkull/#402_6X 5MIN DYN (CLINICAL)/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Leeds_11.img");
+close();
+
+File.openSequence("D:/Hoffman/_Leeds/Hoffman phantom/NoSkull/#402_6X 5MIN DYN (CLINICAL)/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Leeds_12.img");
+close();
+
+File.openSequence("D:/Hoffman/_Leeds/Hoffman phantom/Skull/#401_6x 5min dynamic/Frame1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Leeds_13.img");
+close();
+
+File.openSequence("D:/Hoffman/_Leeds/Hoffman phantom/Skull/#401_6x 5min dynamic/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Leeds_14.img");
+close();
+
+File.openSequence("D:/Hoffman/_Leeds/Hoffman phantom/Skull/#401_6x 5min dynamic/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Leeds_15.img");
+close();
+
+File.openSequence("D:/Hoffman/_Leeds/Hoffman phantom/Skull/#401_6x 5min dynamic/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Leeds_16.img");
+close();
+
+File.openSequence("D:/Hoffman/_Leeds/Hoffman phantom/Skull/#401_6x 5min dynamic/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Leeds_17.img");
+close();
+
+File.openSequence("D:/Hoffman/_Leeds/Hoffman phantom/Skull/#401_6x 5min dynamic/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Leeds_18.img");
+close();
+
+File.openSequence("D:/Hoffman/_Leeds/Hoffman phantom/Skull/#402_6X 5MIN DYN (CLINICAL)/Frame1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Leeds_19.img");
+close();
+
+File.openSequence("D:/Hoffman/_Leeds/Hoffman phantom/Skull/#402_6X 5MIN DYN (CLINICAL)/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Leeds_20.img");
+close();
+
+File.openSequence("D:/Hoffman/_Leeds/Hoffman phantom/Skull/#402_6X 5MIN DYN (CLINICAL)/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Leeds_21.img");
+close();
+
+File.openSequence("D:/Hoffman/_Leeds/Hoffman phantom/Skull/#402_6X 5MIN DYN (CLINICAL)/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Leeds_22.img");
+close();
+
+File.openSequence("D:/Hoffman/_Leeds/Hoffman phantom/Skull/#402_6X 5MIN DYN (CLINICAL)/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Leeds_23.img");
+close();
+
+File.openSequence("D:/Hoffman/_Leeds/Hoffman phantom/Skull/#402_6X 5MIN DYN (CLINICAL)/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Leeds_24.img");
+close();
+
+File.openSequence("D:/Hoffman/_Manchester/CNMNC_Hoffman_PET_2014_05_30_DRAFT/PET Brain AC HD 400 3mm/Recon1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Manchester_01.img");
+close();
+
+File.openSequence("D:/Hoffman/_Manchester/CNMNC_Hoffman_PET_2014_05_30_DRAFT/PET Brain AC HD 400 3mm/Recon2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Manchester_02.img");
+close();
+
+File.openSequence("D:/Hoffman/_Manchester/CNMNC_Hoffman_PET_2014_05_30_DRAFT/PET Brain AC HD 400 3mm/Recon3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Manchester_03.img");
+close();
+
+File.openSequence("D:/Hoffman/_Manchester/CNMNC_Hoffman_PET_2014_05_30_DRAFT/PET Brain AC HD 400 3mm/Recon4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Manchester_04.img");
+close();
+
+File.openSequence("D:/Hoffman/_Manchester/CNMNC_Hoffman_PET_2014_05_30_DRAFT/PET Brain NAC HD 400 3mm/1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Manchester_05.img");
+close();
+
+File.openSequence("D:/Hoffman/_Manchester/CNMNC_Hoffman_PET_2014_05_30_DRAFT/PET Brain NAC HD 400 3mm/2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Manchester_06.img");
+close();
+
+File.openSequence("D:/Hoffman/_Manchester/CNMNC_Hoffman_PET_2014_05_30_DRAFT/PET Brain NAC HD 400 3mm/3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Manchester_07.img");
+close();
+
+File.openSequence("D:/Hoffman/_Manchester/CNMNC_Hoffman_PET_2014_05_30_DRAFT/PET Brain NAC HD 400 3mm/4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Manchester_08.img");
+close();
+
+File.openSequence("D:/Hoffman/_N-Staffs/DICOM/20140408/#4_PET Brain  & Skull/Frame1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/N-Staffs_01.img");
+close();
+
+File.openSequence("D:/Hoffman/_N-Staffs/DICOM/20140408/#4_PET Brain  & Skull/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/N-Staffs_02.img");
+close();
+
+File.openSequence("D:/Hoffman/_N-Staffs/DICOM/20140408/#4_PET Brain  & Skull/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/N-Staffs_03.img");
+close();
+
+File.openSequence("D:/Hoffman/_N-Staffs/DICOM/20140408/#4_PET Brain  & Skull/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/N-Staffs_04.img");
+close();
+
+File.openSequence("D:/Hoffman/_N-Staffs/DICOM/20140408/#4_PET Brain  & Skull/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/N-Staffs_05.img");
+close();
+
+File.openSequence("D:/Hoffman/_N-Staffs/DICOM/20140408/#4_PET Brain  & Skull/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/N-Staffs_06.img");
+close();
+
+File.openSequence("D:/Hoffman/_N-Staffs/DICOM/20140408/#5_PET Brain/Frame1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/N-Staffs_07.img");
+close();
+
+File.openSequence("D:/Hoffman/_N-Staffs/DICOM/20140408/#5_PET Brain/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/N-Staffs_08.img");
+close();
+
+File.openSequence("D:/Hoffman/_N-Staffs/DICOM/20140408/#5_PET Brain/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/N-Staffs_09.img");
+close();
+
+File.openSequence("D:/Hoffman/_N-Staffs/DICOM/20140408/#5_PET Brain/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/N-Staffs_10.img");
+close();
+
+File.openSequence("D:/Hoffman/_N-Staffs/DICOM/20140408/#5_PET Brain/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/N-Staffs_11.img");
+close();
+
+File.openSequence("D:/Hoffman/_N-Staffs/DICOM/20140408/#5_PET Brain/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/N-Staffs_12.img");
+close();
+
+File.openSequence("D:/Hoffman/_N-Staffs/DICOM/20140408/#5_PET Brain OSEM  & Skull/Frame1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/N-Staffs_13.img");
+close();
+
+File.openSequence("D:/Hoffman/_N-Staffs/DICOM/20140408/#5_PET Brain OSEM  & Skull/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/N-Staffs_14.img");
+close();
+
+File.openSequence("D:/Hoffman/_N-Staffs/DICOM/20140408/#5_PET Brain OSEM  & Skull/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/N-Staffs_15.img");
+close();
+
+File.openSequence("D:/Hoffman/_N-Staffs/DICOM/20140408/#5_PET Brain OSEM  & Skull/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/N-Staffs_16.img");
+close();
+
+File.openSequence("D:/Hoffman/_N-Staffs/DICOM/20140408/#5_PET Brain OSEM  & Skull/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/N-Staffs_17.img");
+close();
+
+File.openSequence("D:/Hoffman/_N-Staffs/DICOM/20140408/#5_PET Brain OSEM  & Skull/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/N-Staffs_18.img");
+close();
+
+File.openSequence("D:/Hoffman/_N-Staffs/DICOM/20140408/#6_PET Brain OSEM/Frame1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/N-Staffs_19.img");
+close();
+
+File.openSequence("D:/Hoffman/_N-Staffs/DICOM/20140408/#6_PET Brain OSEM/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/N-Staffs_20.img");
+close();
+
+File.openSequence("D:/Hoffman/_N-Staffs/DICOM/20140408/#6_PET Brain OSEM/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/N-Staffs_21.img");
+close();
+
+File.openSequence("D:/Hoffman/_N-Staffs/DICOM/20140408/#6_PET Brain OSEM/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/N-Staffs_22.img");
+close();
+
+File.openSequence("D:/Hoffman/_N-Staffs/DICOM/20140408/#6_PET Brain OSEM/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/N-Staffs_23.img");
+close();
+
+File.openSequence("D:/Hoffman/_N-Staffs/DICOM/20140408/#6_PET Brain OSEM/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/N-Staffs_24.img");
+close();
+
+File.openSequence("D:/Hoffman/_Newcastle/Local_Dynamic/Frame1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Newcastle_01.img");
+close();
+
+File.openSequence("D:/Hoffman/_Newcastle/Local_Dynamic/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Newcastle_02.img");
+close();
+
+File.openSequence("D:/Hoffman/_Newcastle/Local_Dynamic/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Newcastle_03.img");
+close();
+
+File.openSequence("D:/Hoffman/_Newcastle/Local_Dynamic/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Newcastle_04.img");
+close();
+
+File.openSequence("D:/Hoffman/_Newcastle/Local_Dynamic/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Newcastle_05.img");
+close();
+
+File.openSequence("D:/Hoffman/_Newcastle/Local_Dynamic/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Newcastle_06.img");
+close();
+
+File.openSequence("D:/Hoffman/_Newcastle/UK AC PET/Frame1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Newcastle_07.img");
+close();
+
+File.openSequence("D:/Hoffman/_Newcastle/UK AC PET/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Newcastle_08.img");
+close();
+
+File.openSequence("D:/Hoffman/_Newcastle/UK AC PET/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Newcastle_09.img");
+close();
+
+File.openSequence("D:/Hoffman/_Newcastle/UK AC PET/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Newcastle_10.img");
+close();
+
+File.openSequence("D:/Hoffman/_Newcastle/UK AC PET/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Newcastle_11.img");
+close();
+
+File.openSequence("D:/Hoffman/_Newcastle/UK AC PET/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Newcastle_12.img");
+close();
+
+File.openSequence("D:/Hoffman/_Newcastle/z_CT_same_as_UK AC PET/Frame1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Newcastle_13.img");
+close();
+
+File.openSequence("D:/Hoffman/_Newcastle/z_CT_same_as_UK AC PET/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Newcastle_14.img");
+close();
+
+File.openSequence("D:/Hoffman/_Newcastle/z_CT_same_as_UK AC PET/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Newcastle_15.img");
+close();
+
+File.openSequence("D:/Hoffman/_Newcastle/z_CT_same_as_UK AC PET/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Newcastle_16.img");
+close();
+
+File.openSequence("D:/Hoffman/_Newcastle/z_CT_same_as_UK AC PET/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Newcastle_17.img");
+close();
+
+File.openSequence("D:/Hoffman/_Newcastle/z_CT_same_as_UK AC PET/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Newcastle_18.img");
+close();
+
+File.openSequence("D:/Hoffman/_RoyalSurrey/withoutSkull/PET_BRAIN_LOCALPETTOURCT_0013/Frame1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/RoyalSurrey_01.img");
+close();
+
+File.openSequence("D:/Hoffman/_RoyalSurrey/withoutSkull/PET_BRAIN_LOCALPETTOURCT_0013/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/RoyalSurrey_02.img");
+close();
+
+File.openSequence("D:/Hoffman/_RoyalSurrey/withoutSkull/PET_BRAIN_LOCALPETTOURCT_0013/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/RoyalSurrey_03.img");
+close();
+
+File.openSequence("D:/Hoffman/_RoyalSurrey/withoutSkull/PET_BRAIN_LOCALPETTOURCT_0013/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/RoyalSurrey_04.img");
+close();
+
+File.openSequence("D:/Hoffman/_RoyalSurrey/withoutSkull/PET_BRAIN_LOCALPETTOURCT_0013/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/RoyalSurrey_05.img");
+close();
+
+File.openSequence("D:/Hoffman/_RoyalSurrey/withoutSkull/PET_BRAIN_LOCALPETTOURCT_0013/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/RoyalSurrey_06.img");
+close();
+
+File.openSequence("D:/Hoffman/_RoyalSurrey/withoutSkull/PET_BRAIN_TOURPETTOURCT_0011/Frame1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/RoyalSurrey_07.img");
+close();
+
+File.openSequence("D:/Hoffman/_RoyalSurrey/withoutSkull/PET_BRAIN_TOURPETTOURCT_0011/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/RoyalSurrey_08.img");
+close();
+
+File.openSequence("D:/Hoffman/_RoyalSurrey/withoutSkull/PET_BRAIN_TOURPETTOURCT_0011/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/RoyalSurrey_09.img");
+close();
+
+File.openSequence("D:/Hoffman/_RoyalSurrey/withoutSkull/PET_BRAIN_TOURPETTOURCT_0011/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/RoyalSurrey_10.img");
+close();
+
+File.openSequence("D:/Hoffman/_RoyalSurrey/withoutSkull/PET_BRAIN_TOURPETTOURCT_0011/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/RoyalSurrey_11.img");
+close();
+
+File.openSequence("D:/Hoffman/_RoyalSurrey/withoutSkull/PET_BRAIN_TOURPETTOURCT_0011/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/RoyalSurrey_12.img");
+close();
+
+File.openSequence("D:/Hoffman/_RoyalSurrey/withSkull/PET_BRAIN_LOCALPETTOURCT_0015/Frame1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/RoyalSurrey_13.img");
+close();
+
+File.openSequence("D:/Hoffman/_RoyalSurrey/withSkull/PET_BRAIN_LOCALPETTOURCT_0015/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/RoyalSurrey_14.img");
+close();
+
+File.openSequence("D:/Hoffman/_RoyalSurrey/withSkull/PET_BRAIN_LOCALPETTOURCT_0015/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/RoyalSurrey_15.img");
+close();
+
+File.openSequence("D:/Hoffman/_RoyalSurrey/withSkull/PET_BRAIN_LOCALPETTOURCT_0015/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/RoyalSurrey_16.img");
+close();
+
+File.openSequence("D:/Hoffman/_RoyalSurrey/withSkull/PET_BRAIN_LOCALPETTOURCT_0015/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/RoyalSurrey_17.img");
+close();
+
+File.openSequence("D:/Hoffman/_RoyalSurrey/withSkull/PET_BRAIN_LOCALPETTOURCT_0015/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/RoyalSurrey_18.img");
+close();
+
+File.openSequence("D:/Hoffman/_RoyalSurrey/withSkull/PET_BRAIN_TOURPETTOURCT_0017/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/RoyalSurrey_19.img");
+close();
+
+File.openSequence("D:/Hoffman/_RoyalSurrey/withSkull/PET_BRAIN_TOURPETTOURCT_0017/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/RoyalSurrey_20.img");
+close();
+
+File.openSequence("D:/Hoffman/_RoyalSurrey/withSkull/PET_BRAIN_TOURPETTOURCT_0017/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/RoyalSurrey_21.img");
+close();
+
+File.openSequence("D:/Hoffman/_RoyalSurrey/withSkull/PET_BRAIN_TOURPETTOURCT_0017/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/RoyalSurrey_22.img");
+close();
+
+File.openSequence("D:/Hoffman/_RoyalSurrey/withSkull/PET_BRAIN_TOURPETTOURCT_0017/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/RoyalSurrey_23.img");
+close();
+
+File.openSequence("D:/Hoffman/_Sheffield/sheffield_hoffman/PET_noskull/S888101/Frame1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Sheffield_01.img");
+close();
+
+File.openSequence("D:/Hoffman/_Sheffield/sheffield_hoffman/PET_noskull/S888101/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Sheffield_02.img");
+close();
+
+File.openSequence("D:/Hoffman/_Sheffield/sheffield_hoffman/PET_noskull/S888101/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Sheffield_03.img");
+close();
+
+File.openSequence("D:/Hoffman/_Sheffield/sheffield_hoffman/PET_noskull/S888101/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Sheffield_04.img");
+close();
+
+File.openSequence("D:/Hoffman/_Sheffield/sheffield_hoffman/PET_noskull/S888101/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Sheffield_05.img");
+close();
+
+File.openSequence("D:/Hoffman/_Sheffield/sheffield_hoffman/PET_noskull/S888101/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Sheffield_06.img");
+close();
+
+File.openSequence("D:/Hoffman/_Sheffield/sheffield_hoffman/PET_noskull/S907700/Frame1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Sheffield_07.img");
+close();
+
+File.openSequence("D:/Hoffman/_Sheffield/sheffield_hoffman/PET_noskull/S907700/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Sheffield_08.img");
+close();
+
+File.openSequence("D:/Hoffman/_Sheffield/sheffield_hoffman/PET_noskull/S907700/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Sheffield_09.img");
+close();
+
+File.openSequence("D:/Hoffman/_Sheffield/sheffield_hoffman/PET_noskull/S907700/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Sheffield_10.img");
+close();
+
+File.openSequence("D:/Hoffman/_Sheffield/sheffield_hoffman/PET_noskull/S907700/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Sheffield_11.img");
+close();
+
+File.openSequence("D:/Hoffman/_Sheffield/sheffield_hoffman/PET_noskull/S907700/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Sheffield_12.img");
+close();
+
+File.openSequence("D:/Hoffman/_Sheffield/sheffield_hoffman/PET_withskull/S12220/Frame1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Sheffield_13.img");
+close();
+
+File.openSequence("D:/Hoffman/_Sheffield/sheffield_hoffman/PET_withskull/S12220/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Sheffield_14.img");
+close();
+
+File.openSequence("D:/Hoffman/_Sheffield/sheffield_hoffman/PET_withskull/S12220/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Sheffield_15.img");
+close();
+
+File.openSequence("D:/Hoffman/_Sheffield/sheffield_hoffman/PET_withskull/S12220/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Sheffield_16.img");
+close();
+
+File.openSequence("D:/Hoffman/_Sheffield/sheffield_hoffman/PET_withskull/S12220/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Sheffield_17.img");
+close();
+
+File.openSequence("D:/Hoffman/_Sheffield/sheffield_hoffman/PET_withskull/S12220/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Sheffield_18.img");
+close();
+
+File.openSequence("D:/Hoffman/_Sheffield/sheffield_hoffman/PET_withskull/S12420/Frame1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Sheffield_19.img");
+close();
+
+File.openSequence("D:/Hoffman/_Sheffield/sheffield_hoffman/PET_withskull/S12420/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Sheffield_20.img");
+close();
+
+File.openSequence("D:/Hoffman/_Sheffield/sheffield_hoffman/PET_withskull/S12420/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Sheffield_21.img");
+close();
+
+File.openSequence("D:/Hoffman/_Sheffield/sheffield_hoffman/PET_withskull/S12420/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Sheffield_22.img");
+close();
+
+File.openSequence("D:/Hoffman/_Sheffield/sheffield_hoffman/PET_withskull/S12420/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Sheffield_23.img");
+close();
+
+File.openSequence("D:/Hoffman/_Sheffield/sheffield_hoffman/PET_withskull/S12420/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/Sheffield_24.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5HOFFMANNOSKULLVPHDDYN_Std/Frame1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_01.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5HOFFMANNOSKULLVPHDDYN_Std/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_02.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5HOFFMANNOSKULLVPHDDYN_Std/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_03.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5HOFFMANNOSKULLVPHDDYN_Std/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_04.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5HOFFMANNOSKULLVPHDDYN_Std/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_05.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5HOFFMANNOSKULLVPHDDYN_Std/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_06.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5PETFDGBRAINVPFXDYN/Frame1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_07.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5PETFDGBRAINVPFXDYN/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_08.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5PETFDGBRAINVPFXDYN/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_09.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5PETFDGBRAINVPFXDYN/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_10.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5PETFDGBRAINVPFXDYN/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_11.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5PETFDGBRAINVPFXDYN/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_12.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5PETFDGBRAINVPFXDYN_Extra/Frame1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_13.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5PETFDGBRAINVPFXDYN_Extra/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_14.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5PETFDGBRAINVPFXDYN_Extra/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_15.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5PETFDGBRAINVPFXDYN_Extra/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_16.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5PETFDGBRAINVPFXDYN_Extra/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_17.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5PETFDGBRAINVPFXDYN_Extra/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_18.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5PETFDGBRAINVPFXSDYN/Frame1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_19.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5PETFDGBRAINVPFXSDYN/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_20.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5PETFDGBRAINVPFXSDYN/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_21.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5PETFDGBRAINVPFXSDYN/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_22.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5PETFDGBRAINVPFXSDYN/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_23.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5PETFDGBRAINVPFXSDYN/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_24.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5PETFDGBRAINVPFXSDYN_Local/Frame1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_25.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5PETFDGBRAINVPFXSDYN_Local/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_26.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5PETFDGBRAINVPFXSDYN_Local/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_27.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5PETFDGBRAINVPFXSDYN_Local/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_28.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5PETFDGBRAINVPFXSDYN_Local/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_29.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5PETFDGBRAINVPFXSDYN_Local/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_30.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5HOFFMAN_SKULLVPHDDYN_Std/Frame1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_31.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5HOFFMAN_SKULLVPHDDYN_Std/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_32.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5HOFFMAN_SKULLVPHDDYN_Std/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_33.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5HOFFMAN_SKULLVPHDDYN_Std/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_34.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5HOFFMAN_SKULLVPHDDYN_Std/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_35.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5HOFFMAN_SKULLVPHDDYN_Std/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_36.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5PETBRAINVPFXDYN/Frame1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_37.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5PETBRAINVPFXDYN/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_38.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5PETBRAINVPFXDYN/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_39.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5PETBRAINVPFXDYN/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_40.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5PETBRAINVPFXDYN/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_41.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5PETBRAINVPFXDYN/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_42.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5PETBRAINVPFXDYN_Extra/Frame1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_43.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5PETBRAINVPFXDYN_Extra/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_44.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5PETBRAINVPFXDYN_Extra/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_45.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5PETBRAINVPFXDYN_Extra/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_46.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5PETBRAINVPFXDYN_Extra/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_47.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5PETBRAINVPFXDYN_Extra/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_48.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5PETBRAINVPFXSDYN/Frame1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_49.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5PETBRAINVPFXSDYN/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_50.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5PETBRAINVPFXSDYN/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_51.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5PETBRAINVPFXSDYN/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_52.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5PETBRAINVPFXSDYN/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_53.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5PETBRAINVPFXSDYN/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_54.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5PETBRAINVPFXSDYN_Local/Frame1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_55.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5PETBRAINVPFXSDYN_Local/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_56.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5PETBRAINVPFXSDYN_Local/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_57.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5PETBRAINVPFXSDYN_Local/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_58.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5PETBRAINVPFXSDYN_Local/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_59.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5PETBRAINVPFXSDYN_Local/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_60.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/St Thomas VPHD/VPHD/WITH SKULL/D5HOFFMAN_SKULLVPHDDYN/Frame1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_61.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/St Thomas VPHD/VPHD/WITH SKULL/D5HOFFMAN_SKULLVPHDDYN/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_62.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/St Thomas VPHD/VPHD/WITH SKULL/D5HOFFMAN_SKULLVPHDDYN/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_63.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/St Thomas VPHD/VPHD/WITH SKULL/D5HOFFMAN_SKULLVPHDDYN/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_64.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/St Thomas VPHD/VPHD/WITH SKULL/D5HOFFMAN_SKULLVPHDDYN/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_65.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/St Thomas VPHD/VPHD/WITH SKULL/D5HOFFMAN_SKULLVPHDDYN/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_66.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/St Thomas VPHD/VPHD/WITHOUT SKULL/D5HOFFMANNOSKULLVPHDDYN/Frame1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_67.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/St Thomas VPHD/VPHD/WITHOUT SKULL/D5HOFFMANNOSKULLVPHDDYN/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_68.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/St Thomas VPHD/VPHD/WITHOUT SKULL/D5HOFFMANNOSKULLVPHDDYN/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_69.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/St Thomas VPHD/VPHD/WITHOUT SKULL/D5HOFFMANNOSKULLVPHDDYN/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_70.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/St Thomas VPHD/VPHD/WITHOUT SKULL/D5HOFFMANNOSKULLVPHDDYN/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_71.img");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/St Thomas VPHD/VPHD/WITHOUT SKULL/D5HOFFMANNOSKULLVPHDDYN/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/StThomas_72.img");
+close();
+
+File.openSequence("D:/Hoffman/_UCL-UCLH/DST_HOFFMAN_NOSKULL/PET_DYN_6times5MIN/1.2.840.113619.2.55.3.2349523240.438.1378968805.817/Frame1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/UCL-UCLH_01.img");
+close();
+
+File.openSequence("D:/Hoffman/_UCL-UCLH/DST_HOFFMAN_NOSKULL/PET_DYN_6times5MIN/1.2.840.113619.2.55.3.2349523240.438.1378968805.817/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/UCL-UCLH_02.img");
+close();
+
+File.openSequence("D:/Hoffman/_UCL-UCLH/DST_HOFFMAN_NOSKULL/PET_DYN_6times5MIN/1.2.840.113619.2.55.3.2349523240.438.1378968805.817/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/UCL-UCLH_03.img");
+close();
+
+File.openSequence("D:/Hoffman/_UCL-UCLH/DST_HOFFMAN_NOSKULL/PET_DYN_6times5MIN/1.2.840.113619.2.55.3.2349523240.438.1378968805.817/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/UCL-UCLH_04.img");
+close();
+
+File.openSequence("D:/Hoffman/_UCL-UCLH/DST_HOFFMAN_NOSKULL/PET_DYN_6times5MIN/1.2.840.113619.2.55.3.2349523240.438.1378968805.817/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/UCL-UCLH_05.img");
+close();
+
+File.openSequence("D:/Hoffman/_UCL-UCLH/DST_HOFFMAN_NOSKULL/PET_DYN_6times5MIN/1.2.840.113619.2.55.3.2349523240.438.1378968805.817/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/UCL-UCLH_06.img");
+close();
+
+File.openSequence("D:/Hoffman/_UCL-UCLH/DST_HOFFMAN_SKULL/PET_DYN_6times5MIN/1.2.840.113619.2.55.3.2349523240.438.1378968805.664/Frame1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/UCL-UCLH_07.img");
+close();
+
+File.openSequence("D:/Hoffman/_UCL-UCLH/DST_HOFFMAN_SKULL/PET_DYN_6times5MIN/1.2.840.113619.2.55.3.2349523240.438.1378968805.664/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/UCL-UCLH_08.img");
+close();
+
+File.openSequence("D:/Hoffman/_UCL-UCLH/DST_HOFFMAN_SKULL/PET_DYN_6times5MIN/1.2.840.113619.2.55.3.2349523240.438.1378968805.664/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/UCL-UCLH_09.img");
+close();
+
+File.openSequence("D:/Hoffman/_UCL-UCLH/DST_HOFFMAN_SKULL/PET_DYN_6times5MIN/1.2.840.113619.2.55.3.2349523240.438.1378968805.664/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/UCL-UCLH_10.img");
+close();
+
+File.openSequence("D:/Hoffman/_UCL-UCLH/DST_HOFFMAN_SKULL/PET_DYN_6times5MIN/1.2.840.113619.2.55.3.2349523240.438.1378968805.664/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/UCL-UCLH_11.img");
+close();
+
+File.openSequence("D:/Hoffman/_UCL-UCLH/DST_HOFFMAN_SKULL/PET_DYN_6times5MIN/1.2.840.113619.2.55.3.2349523240.438.1378968805.664/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/UCL-UCLH_12.img");
+close();
+
+File.openSequence("D:/Hoffman/_UCL-UCLH/DVCT_HOFFMAN_NOSKULL/PET_DYN_6times5MIN/1.2.840.113619.2.55.3.2349523752.781.1378969999.87/Frame1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/UCL-UCLH_13.img");
+close();
+
+File.openSequence("D:/Hoffman/_UCL-UCLH/DVCT_HOFFMAN_NOSKULL/PET_DYN_6times5MIN/1.2.840.113619.2.55.3.2349523752.781.1378969999.87/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/UCL-UCLH_14.img");
+close();
+
+File.openSequence("D:/Hoffman/_UCL-UCLH/DVCT_HOFFMAN_NOSKULL/PET_DYN_6times5MIN/1.2.840.113619.2.55.3.2349523752.781.1378969999.87/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/UCL-UCLH_15.img");
+close();
+
+File.openSequence("D:/Hoffman/_UCL-UCLH/DVCT_HOFFMAN_NOSKULL/PET_DYN_6times5MIN/1.2.840.113619.2.55.3.2349523752.781.1378969999.87/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/UCL-UCLH_16.img");
+close();
+
+File.openSequence("D:/Hoffman/_UCL-UCLH/DVCT_HOFFMAN_NOSKULL/PET_DYN_6times5MIN/1.2.840.113619.2.55.3.2349523752.781.1378969999.87/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/UCL-UCLH_17.img");
+close();
+
+File.openSequence("D:/Hoffman/_UCL-UCLH/DVCT_HOFFMAN_NOSKULL/PET_DYN_6times5MIN/1.2.840.113619.2.55.3.2349523752.781.1378969999.87/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/UCL-UCLH_18.img");
+close();
+
+File.openSequence("D:/Hoffman/_UCL-UCLH/DVCT_HOFFMAN_SKULL/PET_DYN_6times5MIN/1.2.840.113619.2.55.3.2349523752.781.1378969998.980/Frame1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/UCL-UCLH_19.img");
+close();
+
+File.openSequence("D:/Hoffman/_UCL-UCLH/DVCT_HOFFMAN_SKULL/PET_DYN_6times5MIN/1.2.840.113619.2.55.3.2349523752.781.1378969998.980/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/UCL-UCLH_20.img");
+close();
+
+File.openSequence("D:/Hoffman/_UCL-UCLH/DVCT_HOFFMAN_SKULL/PET_DYN_6times5MIN/1.2.840.113619.2.55.3.2349523752.781.1378969998.980/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/UCL-UCLH_21.img");
+close();
+
+File.openSequence("D:/Hoffman/_UCL-UCLH/DVCT_HOFFMAN_SKULL/PET_DYN_6times5MIN/1.2.840.113619.2.55.3.2349523752.781.1378969998.980/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/UCL-UCLH_22.img");
+close();
+
+File.openSequence("D:/Hoffman/_UCL-UCLH/DVCT_HOFFMAN_SKULL/PET_DYN_6times5MIN/1.2.840.113619.2.55.3.2349523752.781.1378969998.980/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/UCL-UCLH_23.img");
+close();
+
+File.openSequence("D:/Hoffman/_UCL-UCLH/DVCT_HOFFMAN_SKULL/PET_DYN_6times5MIN/1.2.840.113619.2.55.3.2349523752.781.1378969998.980/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/UCL-UCLH_24.img");
+close();
+
+File.openSequence("D:/Hoffman/_WMIC/Hoffman_NoSkull_2014_06_09/6x5mm_CTAC_3x21_128_z2-7_4mm (AC)/Frame1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/WMIC_01.img");
+close();
+
+File.openSequence("D:/Hoffman/_WMIC/Hoffman_NoSkull_2014_06_09/6x5mm_CTAC_3x21_128_z2-7_4mm (AC)/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/WMIC_02.img");
+close();
+
+File.openSequence("D:/Hoffman/_WMIC/Hoffman_NoSkull_2014_06_09/6x5mm_CTAC_3x21_128_z2-7_4mm (AC)/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/WMIC_03.img");
+close();
+
+File.openSequence("D:/Hoffman/_WMIC/Hoffman_NoSkull_2014_06_09/6x5mm_CTAC_3x21_128_z2-7_4mm (AC)/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/WMIC_04.img");
+close();
+
+File.openSequence("D:/Hoffman/_WMIC/Hoffman_NoSkull_2014_06_09/6x5mm_CTAC_3x21_128_z2-7_4mm (AC)/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/WMIC_05.img");
+close();
+
+File.openSequence("D:/Hoffman/_WMIC/Hoffman_NoSkull_2014_06_09/6x5mm_CTAC_3x21_128_z2-7_4mm (AC)/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/WMIC_06.img");
+close();
+
+File.openSequence("D:/Hoffman/_WMIC/Hoffman_Skull_2014_06_09/6x5mm_CTAC_3x21_128_z2-7_4mm (AC)/Frame1");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/WMIC_07.img");
+close();
+
+File.openSequence("D:/Hoffman/_WMIC/Hoffman_Skull_2014_06_09/6x5mm_CTAC_3x21_128_z2-7_4mm (AC)/Frame2");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/WMIC_08.img");
+close();
+
+File.openSequence("D:/Hoffman/_WMIC/Hoffman_Skull_2014_06_09/6x5mm_CTAC_3x21_128_z2-7_4mm (AC)/Frame3");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/WMIC_09.img");
+close();
+
+File.openSequence("D:/Hoffman/_WMIC/Hoffman_Skull_2014_06_09/6x5mm_CTAC_3x21_128_z2-7_4mm (AC)/Frame4");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/WMIC_10.img");
+close();
+
+File.openSequence("D:/Hoffman/_WMIC/Hoffman_Skull_2014_06_09/6x5mm_CTAC_3x21_128_z2-7_4mm (AC)/Frame5");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/WMIC_11.img");
+close();
+
+File.openSequence("D:/Hoffman/_WMIC/Hoffman_Skull_2014_06_09/6x5mm_CTAC_3x21_128_z2-7_4mm (AC)/Frame6");
+run("Analyze (NIfTI-1)", "save=D:/Hoffman/AnalyzeImages/WMIC_12.img");
 close();
