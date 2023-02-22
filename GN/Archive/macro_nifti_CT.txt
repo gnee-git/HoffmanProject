@@ -1,0 +1,164 @@
+
+File.openSequence("D:/Hoffman/CT_AllCentres/_Aberdeen/Skull/WB Standard");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_CT/Aberdeen_01.nii");
+close();
+
+File.openSequence("D:/Hoffman/CT_AllCentres/_Aberdeen/NoSkull/WB Standard");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_CT/Aberdeen_02.nii");
+close();
+
+File.openSequence("D:/Hoffman/CT_AllCentres/_Belfast/Local/CTAC 3.75 Thick");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_CT/Belfast_01.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Local/ISGARS/0/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_CT/Belfast_02.nii");
+close();
+
+File.openSequence("D:/Hoffman/CT_AllCentres/_Belfast/Standard/CTAC 3.75 Thick");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_CT/Belfast_03.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Standard/ISGARS/0/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_CT/Belfast_04.nii");
+close();
+
+File.openSequence("D:/Hoffman/CT_AllCentres/_Cambridge/ISGARS/NoSkull/CTAC 3.75 Thick");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_CT/Cambridge_01.nii");
+close();
+
+File.openSequence("D:/Hoffman/CT_AllCentres/_Cambridge/ISGARS/Skull/CTAC 3.75 Thick");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_CT/Cambridge_02.nii");
+close();
+
+File.openSequence("D:/Hoffman/CT_AllCentres/_Cambridge/NoSkull/CTAC 3.75 Thick");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_CT/Cambridge_03.nii");
+close();
+
+File.openSequence("D:/Hoffman/CT_AllCentres/_Cambridge/Skull/CTAC 3.75 Thick");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_CT/Cambridge_04.nii");
+close();
+
+File.openSequence("D:/Hoffman/CT_AllCentres/_Cardiff/NoSkull/CTAC");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_CT/Cardiff_01.nii");
+close();
+
+File.openSequence("D:/Hoffman/CT_AllCentres/_Cardiff/Skull/CTAC");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_CT/Cardiff_02.nii");
+close();
+
+File.openSequence("D:/Hoffman/CT_AllCentres/_Christie/Hoffman_NoSkull2_2014_06_13/Standard_CTAC Brain");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_CT/Christie_01.nii");
+close();
+
+File.openSequence("D:/Hoffman/CT_AllCentres/_Christie/Hoffman_NoSkull_2014_06_09/Standard_CTAC Brain");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_CT/Christie_02.nii");
+close();
+
+File.openSequence("D:/Hoffman/CT_AllCentres/_Christie/Hoffman_Skull_2014_06_09/Standard_CTAC Brain");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_CT/Christie_03.nii");
+close();
+
+File.openSequence("D:/Hoffman/CT_AllCentres/_Dundee/#17_AC CT WB 500");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_CT/Dundee_01.nii");
+close();
+
+File.openSequence("D:/Hoffman/CT_AllCentres/_Dundee/#23_AC CT WB 500");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_CT/Dundee_02.nii");
+close();
+
+File.openSequence("D:/Hoffman/CT_AllCentres/_Edinburgh/#6_AC CT");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_CT/Edinburgh_01.nii");
+close();
+
+File.openSequence("D:/Hoffman/CT_AllCentres/_Edinburgh/#2_AC CT WB");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_CT/Edinburgh_02.nii");
+close();
+
+File.openSequence("D:/Hoffman/CT_AllCentres/_Glasgow/NoSkull/CT Std ET 690 NO Skull");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_CT/Glasgow_01.nii");
+close();
+
+File.openSequence("D:/Hoffman/CT_AllCentres/_Glasgow/Skull/CT Std ET 690 Skull");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_CT/Glasgow_02.nii");
+close();
+
+File.openSequence("D:/Hoffman/CT_AllCentres/_Leeds/NoSkull/#2_BRAIN CTAC");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_CT/Leeds_01.nii");
+close();
+
+File.openSequence("D:/Hoffman/CT_AllCentres/_Leeds/Skull/#2_BRAIN CTAC");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_CT/Leeds_02.nii");
+close();
+
+File.openSequence("D:/Hoffman/CT_AllCentres/_Manchester/CNMNC_Hoffman_PET_2014_05_30_DRAFT/STD CT Brain/9001");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_CT/Manchester_01.nii");
+close();
+
+File.openSequence("D:/Hoffman/CT_AllCentres/_N-Staffs/AC CT Brain & Skull");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_CT/N-Staffs_01.nii");
+close();
+
+File.openSequence("D:/Hoffman/CT_AllCentres/_N-Staffs/AC CT Brain");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_CT/N-Staffs_02.nii");
+close();
+
+File.openSequence("D:/Hoffman/CT_AllCentres/_Newcastle/CT");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_CT/Newcastle_01.nii");
+close();
+
+File.openSequence("D:/Hoffman/CT_AllCentres/_RoyalSurrey/NoSkull/AC_CT_BRAIN_TOUR_0010");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_CT/RoyalSurrey_01.nii");
+close();
+
+File.openSequence("D:/Hoffman/CT_AllCentres/_RoyalSurrey/Skull/AC_CT_BRAIN_TOUR_0012");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_CT/RoyalSurrey_02.nii");
+close();
+
+File.openSequence("D:/Hoffman/CT_AllCentres/_Sheffield/CT_noskull/S50");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_CT/Sheffield_01.nii");
+close();
+
+File.openSequence("D:/Hoffman/CT_AllCentres/_Sheffield/CT_withskull/S30");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_CT/Sheffield_02.nii");
+close();
+
+File.openSequence("D:/Hoffman/CT_AllCentres/_StThomas/NoSkull/D5CTBRAINSTD25MM_CT");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_CT/StThomas_01.nii");
+close();
+
+File.openSequence("D:/Hoffman/CT_AllCentres/_StThomas/Skull/D5CTBRAINSTD25MM_CT");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_CT/StThomas_02.nii");
+close();
+
+File.openSequence("D:/Hoffman/CT_AllCentres/_StThomas/VPHD/Skull/D5CTBRAINSTD25MM");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_CT/StThomas_03.nii");
+close();
+
+File.openSequence("D:/Hoffman/CT_AllCentres/_StThomas/VPHD/NoSkull/D5CTBRAINSTD25MM");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_CT/StThomas_04.nii");
+close();
+
+File.openSequence("D:/Hoffman/CT_AllCentres/_UCL-UCLH/DST_HOFFMAN_NOSKULL/CT_2_5MM/1.2.840.113619.2.55.3.2349523240.438.1378968805.817");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_CT/UCL-UCLH_01.nii");
+close();
+
+File.openSequence("D:/Hoffman/CT_AllCentres/_UCL-UCLH/DST_HOFFMAN_SKULL/CT_2_5MM/1.2.840.113619.2.55.3.2349523240.438.1378968805.664");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_CT/UCL-UCLH_02.nii");
+close();
+
+File.openSequence("D:/Hoffman/CT_AllCentres/_UCL-UCLH/DVCT_HOFFMAN_NOSKULL/CT_2_5MM/1.2.840.113619.2.55.3.2349523752.781.1378969999.87");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_CT/UCL-UCLH_03.nii");
+close();
+
+File.openSequence("D:/Hoffman/CT_AllCentres/_UCL-UCLH/DVCT_HOFFMAN_SKULL/CT_2_5_MM/1.2.840.113619.2.55.3.2349523752.781.1378969998.980");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_CT/UCL-UCLH_04.nii");
+close();
+
+File.openSequence("D:/Hoffman/CT_AllCentres/_WMIC/Hoffman_NoSkull_2014_06_09/AC_CT");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_CT/WMIC_01.nii");
+close();
+
+File.openSequence("D:/Hoffman/CT_AllCentres/_WMIC/Hoffman_Skull_2014_06_09/AC_CT");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_CT/WMIC_02.nii");
+close();

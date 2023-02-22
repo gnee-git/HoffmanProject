@@ -21,6 +21,8 @@ AnalyzeImages
 CT_AllCentres
 CT_IQ_test
 NiftiImages
+NiftiImages_CT
+NiftiImages_PET
 spm12
 z_Photos
 *.tmp

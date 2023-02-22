@@ -1,0 +1,1848 @@
+
+File.openSequence("D:/Hoffman/_Aberdeen/IMANOVA_BRAIN+SKULL/ARI PARAMS/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Aberdeen_01.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Aberdeen/IMANOVA_BRAIN+SKULL/ARI PARAMS/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Aberdeen_02.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Aberdeen/IMANOVA_BRAIN+SKULL/ARI PARAMS/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Aberdeen_03.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Aberdeen/IMANOVA_BRAIN+SKULL/ARI PARAMS/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Aberdeen_04.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Aberdeen/IMANOVA_BRAIN+SKULL/ARI PARAMS/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Aberdeen_05.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Aberdeen/IMANOVA_BRAIN+SKULL/ARI PARAMS/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Aberdeen_06.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Aberdeen/IMANOVA_BRAIN+SKULL/IMANOVA PARAMS/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Aberdeen_07.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Aberdeen/IMANOVA_BRAIN+SKULL/IMANOVA PARAMS/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Aberdeen_08.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Aberdeen/IMANOVA_BRAIN+SKULL/IMANOVA PARAMS/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Aberdeen_09.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Aberdeen/IMANOVA_BRAIN+SKULL/IMANOVA PARAMS/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Aberdeen_10.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Aberdeen/IMANOVA_BRAIN+SKULL/IMANOVA PARAMS/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Aberdeen_11.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Aberdeen/IMANOVA_BRAIN+SKULL/IMANOVA PARAMS/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Aberdeen_12.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Aberdeen/IMANOVA_BRAIN_NO_SKULL/ARI PARAMS/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Aberdeen_13.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Aberdeen/IMANOVA_BRAIN_NO_SKULL/ARI PARAMS/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Aberdeen_14.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Aberdeen/IMANOVA_BRAIN_NO_SKULL/ARI PARAMS/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Aberdeen_15.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Aberdeen/IMANOVA_BRAIN_NO_SKULL/ARI PARAMS/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Aberdeen_16.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Aberdeen/IMANOVA_BRAIN_NO_SKULL/ARI PARAMS/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Aberdeen_17.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Aberdeen/IMANOVA_BRAIN_NO_SKULL/ARI PARAMS/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Aberdeen_18.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Aberdeen/IMANOVA_BRAIN_NO_SKULL/IMANOVA PARAMS/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Aberdeen_19.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Aberdeen/IMANOVA_BRAIN_NO_SKULL/IMANOVA PARAMS/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Aberdeen_20.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Aberdeen/IMANOVA_BRAIN_NO_SKULL/IMANOVA PARAMS/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Aberdeen_21.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Aberdeen/IMANOVA_BRAIN_NO_SKULL/IMANOVA PARAMS/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Aberdeen_22.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Aberdeen/IMANOVA_BRAIN_NO_SKULL/IMANOVA PARAMS/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Aberdeen_23.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Aberdeen/IMANOVA_BRAIN_NO_SKULL/IMANOVA PARAMS/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Aberdeen_24.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Local/Hoffmann Clinical/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Belfast_01.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Local/Hoffmann Clinical/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Belfast_02.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Local/Hoffmann Clinical/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Belfast_03.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Local/Hoffmann Clinical/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Belfast_04.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Local/Hoffmann Clinical/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Belfast_05.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Local/Hoffmann Clinical/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Belfast_06.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Local/ISGARS/0/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Belfast_07.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Local/ISGARS/0/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Belfast_08.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Local/ISGARS/0/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Belfast_09.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Local/ISGARS/0/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Belfast_10.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Local/ISGARS/0/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Belfast_11.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Local/ISGARS/0/Frame7");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Belfast_12.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Standard/Hoffmann standard unlisted/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Belfast_13.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Standard/Hoffmann standard unlisted/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Belfast_14.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Standard/Hoffmann standard unlisted/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Belfast_15.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Standard/Hoffmann standard unlisted/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Belfast_16.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Standard/Hoffmann standard unlisted/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Belfast_17.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Standard/Hoffmann standard unlisted/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Belfast_18.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Standard/Hoffmann std clinical/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Belfast_19.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Standard/Hoffmann std clinical/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Belfast_20.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Standard/Hoffmann std clinical/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Belfast_21.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Standard/Hoffmann std clinical/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Belfast_22.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Standard/Hoffmann std clinical/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Belfast_23.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Standard/Hoffmann std clinical/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Belfast_24.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Standard/ISGARS/0/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Belfast_25.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Standard/ISGARS/0/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Belfast_26.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Standard/ISGARS/0/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Belfast_27.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Standard/ISGARS/0/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Belfast_28.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Standard/ISGARS/0/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Belfast_29.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Belfast/Standard/ISGARS/0/Frame7");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Belfast_30.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Cambridge/ISGARS/NoSkull/0-5 MIN");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Cambridge_01.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Cambridge/ISGARS/NoSkull/10-15 MINS");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Cambridge_02.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Cambridge/ISGARS/NoSkull/15-20 MINS");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Cambridge_03.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Cambridge/ISGARS/NoSkull/20-25 MINS");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Cambridge_04.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Cambridge/ISGARS/NoSkull/25-30 MINS");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Cambridge_05.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Cambridge/ISGARS/NoSkull/5-10 MIN");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Cambridge_06.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Cambridge/ISGARS/Skull/0-5 MINS");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Cambridge_07.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Cambridge/ISGARS/Skull/10-15 MINS");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Cambridge_08.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Cambridge/ISGARS/Skull/15-20 MINS");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Cambridge_09.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Cambridge/ISGARS/Skull/20-25 MINS");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Cambridge_10.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Cambridge/ISGARS/Skull/25-30 MINS");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Cambridge_11.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Cambridge/ISGARS/Skull/5-10 MINS");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Cambridge_12.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Cambridge/NoSkull/0-5 MIN");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Cambridge_13.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Cambridge/NoSkull/10-15 MINS");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Cambridge_14.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Cambridge/NoSkull/15-20 MINS");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Cambridge_15.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Cambridge/NoSkull/20-25 MINS");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Cambridge_16.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Cambridge/NoSkull/25-30 MINS");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Cambridge_17.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Cambridge/NoSkull/5-10 MIN");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Cambridge_18.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Cambridge/Skull/0-5 MINS");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Cambridge_19.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Cambridge/Skull/10-15 MINS");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Cambridge_20.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Cambridge/Skull/15-20 MINS");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Cambridge_21.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Cambridge/Skull/20-25 MINS");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Cambridge_22.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Cambridge/Skull/25-30 MINS");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Cambridge_23.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Cambridge/Skull/5-10 MINS");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Cambridge_24.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Cardiff/NoSkull/NO SKULL - PETIC PARAMETERS/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Cardiff_01.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Cardiff/NoSkull/NO SKULL - PETIC PARAMETERS/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Cardiff_02.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Cardiff/NoSkull/NO SKULL - PETIC PARAMETERS/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Cardiff_03.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Cardiff/NoSkull/NO SKULL - PETIC PARAMETERS/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Cardiff_04.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Cardiff/NoSkull/NO SKULL - PETIC PARAMETERS/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Cardiff_05.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Cardiff/NoSkull/NO SKULL - PETIC PARAMETERS/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Cardiff_06.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Cardiff/NoSkull/NO SKULL - STANDARD PARAMETER/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Cardiff_07.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Cardiff/NoSkull/NO SKULL - STANDARD PARAMETER/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Cardiff_08.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Cardiff/NoSkull/NO SKULL - STANDARD PARAMETER/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Cardiff_09.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Cardiff/NoSkull/NO SKULL - STANDARD PARAMETER/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Cardiff_10.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Cardiff/NoSkull/NO SKULL - STANDARD PARAMETER/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Cardiff_11.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Cardiff/NoSkull/NO SKULL - STANDARD PARAMETER/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Cardiff_12.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Cardiff/Skull/SKULL PETIC RECON/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Cardiff_13.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Cardiff/Skull/SKULL PETIC RECON/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Cardiff_14.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Cardiff/Skull/SKULL PETIC RECON/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Cardiff_15.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Cardiff/Skull/SKULL PETIC RECON/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Cardiff_16.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Cardiff/Skull/SKULL PETIC RECON/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Cardiff_17.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Cardiff/Skull/SKULL PETIC RECON/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Cardiff_18.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Cardiff/Skull/SKULL STANDARD RECON/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Cardiff_19.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Cardiff/Skull/SKULL STANDARD RECON/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Cardiff_20.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Cardiff/Skull/SKULL STANDARD RECON/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Cardiff_21.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Cardiff/Skull/SKULL STANDARD RECON/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Cardiff_22.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Cardiff/Skull/SKULL STANDARD RECON/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Cardiff_23.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Cardiff/Skull/SKULL STANDARD RECON/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Cardiff_24.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_NoSkull2_2014_06_13/Hoffman_CTAC-50cm_3x20_128_25cm_4mm/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Christie_01.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_NoSkull2_2014_06_13/Hoffman_CTAC-50cm_3x20_128_25cm_4mm/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Christie_02.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_NoSkull2_2014_06_13/Hoffman_CTAC-50cm_3x20_128_25cm_4mm/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Christie_03.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_NoSkull2_2014_06_13/Hoffman_CTAC-50cm_3x20_128_25cm_4mm/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Christie_04.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_NoSkull2_2014_06_13/Hoffman_CTAC-50cm_3x20_128_25cm_4mm/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Christie_05.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_NoSkull2_2014_06_13/Hoffman_CTAC-50cm_3x20_128_25cm_4mm/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Christie_06.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_NoSkull2_2014_06_13/Standard_CTAC_2x20_128_30cm_2-14mm/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Christie_07.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_NoSkull2_2014_06_13/Standard_CTAC_2x20_128_30cm_2-14mm/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Christie_08.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_NoSkull2_2014_06_13/Standard_CTAC_2x20_128_30cm_2-14mm/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Christie_09.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_NoSkull2_2014_06_13/Standard_CTAC_2x20_128_30cm_2-14mm/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Christie_10.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_NoSkull2_2014_06_13/Standard_CTAC_2x20_128_30cm_2-14mm/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Christie_11.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_NoSkull2_2014_06_13/Standard_CTAC_2x20_128_30cm_2-14mm/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Christie_12.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_NoSkull_2014_06_09/Hoffman_CTAC-50cm_3x20_128_25cm_4mm/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Christie_13.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_NoSkull_2014_06_09/Hoffman_CTAC-50cm_3x20_128_25cm_4mm/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Christie_14.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_NoSkull_2014_06_09/Hoffman_CTAC-50cm_3x20_128_25cm_4mm/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Christie_15.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_NoSkull_2014_06_09/Hoffman_CTAC-50cm_3x20_128_25cm_4mm/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Christie_16.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_NoSkull_2014_06_09/Hoffman_CTAC-50cm_3x20_128_25cm_4mm/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Christie_17.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_NoSkull_2014_06_09/Hoffman_CTAC-50cm_3x20_128_25cm_4mm/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Christie_18.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_NoSkull_2014_06_09/Standard_CTAC_2X20_128_30cm_2-14mm/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Christie_19.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_NoSkull_2014_06_09/Standard_CTAC_2X20_128_30cm_2-14mm/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Christie_20.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_NoSkull_2014_06_09/Standard_CTAC_2X20_128_30cm_2-14mm/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Christie_21.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_NoSkull_2014_06_09/Standard_CTAC_2X20_128_30cm_2-14mm/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Christie_22.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_NoSkull_2014_06_09/Standard_CTAC_2X20_128_30cm_2-14mm/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Christie_23.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_NoSkull_2014_06_09/Standard_CTAC_2X20_128_30cm_2-14mm/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Christie_24.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_Skull_2014_06_09/Hoffman_CTAC-50cm_3x20_128_25cm_4mm/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Christie_25.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_Skull_2014_06_09/Hoffman_CTAC-50cm_3x20_128_25cm_4mm/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Christie_26.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_Skull_2014_06_09/Hoffman_CTAC-50cm_3x20_128_25cm_4mm/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Christie_27.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_Skull_2014_06_09/Hoffman_CTAC-50cm_3x20_128_25cm_4mm/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Christie_28.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_Skull_2014_06_09/Hoffman_CTAC-50cm_3x20_128_25cm_4mm/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Christie_29.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_Skull_2014_06_09/Hoffman_CTAC-50cm_3x20_128_25cm_4mm/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Christie_30.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_Skull_2014_06_09/Standard_CTAC_2x20_128_30cm_2-14mm/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Christie_31.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_Skull_2014_06_09/Standard_CTAC_2x20_128_30cm_2-14mm/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Christie_32.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_Skull_2014_06_09/Standard_CTAC_2x20_128_30cm_2-14mm/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Christie_33.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_Skull_2014_06_09/Standard_CTAC_2x20_128_30cm_2-14mm/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Christie_34.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_Skull_2014_06_09/Standard_CTAC_2x20_128_30cm_2-14mm/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Christie_35.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Christie/Hoffman_Skull_2014_06_09/Standard_CTAC_2x20_128_30cm_2-14mm/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Christie_36.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Dundee/#20_DD_Hoffman_1x5_Skull");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Dundee_01.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Dundee/#21_DD_Hoffman_2x5_Skull");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Dundee_02.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Dundee/#22_DD_Hoffman_3x5_Skull");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Dundee_03.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Dundee/#23_DD_Hoffman_4x5_Skull");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Dundee_04.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Dundee/#24_DD_Hoffman_5x5_Skull");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Dundee_05.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Dundee/#25_DD_Hoffman_6x5_Skull");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Dundee_06.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Dundee/#26_DD_Hoffman_1x5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Dundee_07.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Dundee/#26_DD_Hoffman_2x5 Clinical_Skull");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Dundee_08.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Dundee/#27_DD_Hoffman_2x5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Dundee_09.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Dundee/#27_DD_Hoffman_3x5 Clinical_Skull");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Dundee_10.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Dundee/#28_DD_Hoffman_3x5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Dundee_11.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Dundee/#28_DD_Hoffman_4x5 Clinical_Skull");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Dundee_12.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Dundee/#29_DD_Hoffman_4x5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Dundee_13.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Dundee/#29_DD_Hoffman_5x5 Clinical_Skull");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Dundee_14.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Dundee/#30_DD_Hoffman_5x5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Dundee_15.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Dundee/#30_DD_Hoffman_6x5 Clinical_Skull");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Dundee_16.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Dundee/#31_DD_Hoffman_1x5 Clinical_Skull");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Dundee_17.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Dundee/#31_DD_Hoffman_6x5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Dundee_18.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Dundee/#32_DD_Hoffman_1x5 Clinical");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Dundee_19.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Dundee/#33_DD_Hoffman_2x5 Clinical");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Dundee_20.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Dundee/#34_DD_Hoffman_3x5 Clinical");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Dundee_21.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Dundee/#35_DD_Hoffman_4x5 Clinical");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Dundee_22.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Dundee/#36_DD_Hoffman_5x5 Clinical");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Dundee_23.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Dundee/#37_DD_Hoffman_6x5 Clinical");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Dundee_24.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#10_Hoff skull OSEM 3i24s 4mm 400 z1/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Edinburgh_01.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#10_Hoff skull OSEM 3i24s 4mm 400 z1/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Edinburgh_02.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#10_Hoff skull OSEM 3i24s 4mm 400 z1/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Edinburgh_03.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#10_Hoff skull OSEM 3i24s 4mm 400 z1/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Edinburgh_04.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#10_Hoff skull OSEM 3i24s 4mm 400 z1/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Edinburgh_05.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#10_Hoff skull OSEM 3i24s 4mm 400 z1/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Edinburgh_06.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#11_Hoff AC OSEM+TOF 4i21s 4mm 400 z2/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Edinburgh_07.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#11_Hoff AC OSEM+TOF 4i21s 4mm 400 z2/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Edinburgh_08.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#11_Hoff AC OSEM+TOF 4i21s 4mm 400 z2/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Edinburgh_09.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#11_Hoff AC OSEM+TOF 4i21s 4mm 400 z2/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Edinburgh_10.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#11_Hoff AC OSEM+TOF 4i21s 4mm 400 z2/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Edinburgh_11.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#11_Hoff AC OSEM+TOF 4i21s 4mm 400 z2/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Edinburgh_12.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#12_Hoff AC OSEM 3i24s 4mm 400 z1/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Edinburgh_13.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#12_Hoff AC OSEM 3i24s 4mm 400 z1/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Edinburgh_14.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#12_Hoff AC OSEM 3i24s 4mm 400 z1/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Edinburgh_15.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#12_Hoff AC OSEM 3i24s 4mm 400 z1/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Edinburgh_16.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#12_Hoff AC OSEM 3i24s 4mm 400 z1/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Edinburgh_17.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#12_Hoff AC OSEM 3i24s 4mm 400 z1/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Edinburgh_18.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#7_Hoff skull AC OSEM 3i24s 4mm 128 z1/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Edinburgh_19.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#7_Hoff skull AC OSEM 3i24s 4mm 128 z1/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Edinburgh_20.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#7_Hoff skull AC OSEM 3i24s 4mm 128 z1/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Edinburgh_21.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#7_Hoff skull AC OSEM 3i24s 4mm 128 z1/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Edinburgh_22.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#7_Hoff skull AC OSEM 3i24s 4mm 128 z1/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Edinburgh_23.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#7_Hoff skull AC OSEM 3i24s 4mm 128 z1/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Edinburgh_24.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#9_Hoff AC OSEM 3i24s 4mm 128 z1/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Edinburgh_25.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#9_Hoff AC OSEM 3i24s 4mm 128 z1/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Edinburgh_26.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#9_Hoff AC OSEM 3i24s 4mm 128 z1/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Edinburgh_27.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#9_Hoff AC OSEM 3i24s 4mm 128 z1/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Edinburgh_28.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#9_Hoff AC OSEM 3i24s 4mm 128 z1/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Edinburgh_29.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#9_Hoff AC OSEM 3i24s 4mm 128 z1/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Edinburgh_30.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#9_Hoff skull AC OSEM+TOF 4i21s 4mm 400 z2/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Edinburgh_31.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#9_Hoff skull AC OSEM+TOF 4i21s 4mm 400 z2/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Edinburgh_32.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#9_Hoff skull AC OSEM+TOF 4i21s 4mm 400 z2/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Edinburgh_33.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#9_Hoff skull AC OSEM+TOF 4i21s 4mm 400 z2/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Edinburgh_34.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#9_Hoff skull AC OSEM+TOF 4i21s 4mm 400 z2/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Edinburgh_35.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Edinburgh/#9_Hoff skull AC OSEM+TOF 4i21s 4mm 400 z2/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Edinburgh_36.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/NoSkull/Glasgow PET 0-5m NO Skull");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Glasgow_01.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/NoSkull/Glasgow PET 10-15m NO Skull");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Glasgow_02.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/NoSkull/Glasgow PET 15-20m NO Skull");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Glasgow_03.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/NoSkull/Glasgow PET 20-25m NO Skull");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Glasgow_04.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/NoSkull/Glasgow PET 25-30m NO Skull");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Glasgow_05.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/NoSkull/Glasgow PET 5-10m NO Skull");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Glasgow_06.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/NoSkull/UK PET 0-5m NO Skull");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Glasgow_07.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/NoSkull/UK PET 0-5m NO Skull NToF");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Glasgow_08.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/NoSkull/UK PET 10-15m NO Skull");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Glasgow_09.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/NoSkull/UK PET 10-15m NO Skull NToF");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Glasgow_10.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/NoSkull/UK PET 15-20m NO Skull");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Glasgow_11.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/NoSkull/UK PET 15-20m NO Skull NToF");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Glasgow_12.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/NoSkull/UK PET 20-25m NO Skull");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Glasgow_13.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/NoSkull/UK PET 20-25m NO Skull NToF");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Glasgow_14.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/NoSkull/UK PET 25-30m NO Skull");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Glasgow_15.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/NoSkull/UK PET 25-30m NO Skull NToF");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Glasgow_16.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/NoSkull/UK PET 5-10m NO Skull");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Glasgow_17.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/NoSkull/UK PET 5-10m NO Skull NToF");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Glasgow_18.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/Skull/Glasgow PET 0-5m Skull");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Glasgow_19.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/Skull/Glasgow PET 10-15m Skull");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Glasgow_20.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/Skull/Glasgow PET 15-20m Skull");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Glasgow_21.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/Skull/Glasgow PET 20-25m Skull");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Glasgow_22.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/Skull/Glasgow PET 25-30m Skull");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Glasgow_23.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/Skull/Glasgow PET 5-10m Skull");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Glasgow_24.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/Skull/UK PET 0-5m Skull");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Glasgow_25.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/Skull/UK PET 0-5m Skull NToF");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Glasgow_26.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/Skull/UK PET 10-15m Skull");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Glasgow_27.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/Skull/UK PET 15-20m Skull");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Glasgow_29.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/Skull/UK PET 15-20m Skull NToF");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Glasgow_30.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/Skull/UK PET 20-25m Skull");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Glasgow_31.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/Skull/UK PET 20-25m Skull NToF");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Glasgow_32.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/Skull/UK PET 25-30m Skull");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Glasgow_33.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/Skull/UK PET 25-30m Skull NToF");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Glasgow_34.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/Skull/UK PET 5-10m Skull");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Glasgow_35.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Glasgow/Skull/UK PET 5-10m Skull NToF");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Glasgow_36.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Leeds/Hoffman phantom/NoSkull/#401_6x 5min dynamic/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Leeds_01.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Leeds/Hoffman phantom/NoSkull/#401_6x 5min dynamic/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Leeds_02.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Leeds/Hoffman phantom/NoSkull/#401_6x 5min dynamic/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Leeds_03.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Leeds/Hoffman phantom/NoSkull/#401_6x 5min dynamic/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Leeds_04.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Leeds/Hoffman phantom/NoSkull/#401_6x 5min dynamic/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Leeds_05.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Leeds/Hoffman phantom/NoSkull/#401_6x 5min dynamic/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Leeds_06.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Leeds/Hoffman phantom/NoSkull/#402_6X 5MIN DYN (CLINICAL)/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Leeds_07.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Leeds/Hoffman phantom/NoSkull/#402_6X 5MIN DYN (CLINICAL)/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Leeds_08.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Leeds/Hoffman phantom/NoSkull/#402_6X 5MIN DYN (CLINICAL)/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Leeds_09.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Leeds/Hoffman phantom/NoSkull/#402_6X 5MIN DYN (CLINICAL)/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Leeds_10.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Leeds/Hoffman phantom/NoSkull/#402_6X 5MIN DYN (CLINICAL)/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Leeds_11.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Leeds/Hoffman phantom/NoSkull/#402_6X 5MIN DYN (CLINICAL)/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Leeds_12.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Leeds/Hoffman phantom/Skull/#401_6x 5min dynamic/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Leeds_13.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Leeds/Hoffman phantom/Skull/#401_6x 5min dynamic/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Leeds_14.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Leeds/Hoffman phantom/Skull/#401_6x 5min dynamic/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Leeds_15.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Leeds/Hoffman phantom/Skull/#401_6x 5min dynamic/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Leeds_16.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Leeds/Hoffman phantom/Skull/#401_6x 5min dynamic/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Leeds_17.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Leeds/Hoffman phantom/Skull/#401_6x 5min dynamic/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Leeds_18.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Leeds/Hoffman phantom/Skull/#402_6X 5MIN DYN (CLINICAL)/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Leeds_19.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Leeds/Hoffman phantom/Skull/#402_6X 5MIN DYN (CLINICAL)/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Leeds_20.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Leeds/Hoffman phantom/Skull/#402_6X 5MIN DYN (CLINICAL)/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Leeds_21.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Leeds/Hoffman phantom/Skull/#402_6X 5MIN DYN (CLINICAL)/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Leeds_22.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Leeds/Hoffman phantom/Skull/#402_6X 5MIN DYN (CLINICAL)/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Leeds_23.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Leeds/Hoffman phantom/Skull/#402_6X 5MIN DYN (CLINICAL)/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Leeds_24.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Manchester/CNMNC_Hoffman_PET_2014_05_30_DRAFT/PET Brain AC HD 400 3mm/Recon1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Manchester_01.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Manchester/CNMNC_Hoffman_PET_2014_05_30_DRAFT/PET Brain AC HD 400 3mm/Recon2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Manchester_02.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Manchester/CNMNC_Hoffman_PET_2014_05_30_DRAFT/PET Brain AC HD 400 3mm/Recon3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Manchester_03.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Manchester/CNMNC_Hoffman_PET_2014_05_30_DRAFT/PET Brain AC HD 400 3mm/Recon4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Manchester_04.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Manchester/CNMNC_Hoffman_PET_2014_05_30_DRAFT/PET Brain NAC HD 400 3mm/1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Manchester_05.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Manchester/CNMNC_Hoffman_PET_2014_05_30_DRAFT/PET Brain NAC HD 400 3mm/2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Manchester_06.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Manchester/CNMNC_Hoffman_PET_2014_05_30_DRAFT/PET Brain NAC HD 400 3mm/3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Manchester_07.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Manchester/CNMNC_Hoffman_PET_2014_05_30_DRAFT/PET Brain NAC HD 400 3mm/4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Manchester_08.nii");
+close();
+
+File.openSequence("D:/Hoffman/_N-Staffs/DICOM/20140408/#4_PET Brain  & Skull/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/N-Staffs_01.nii");
+close();
+
+File.openSequence("D:/Hoffman/_N-Staffs/DICOM/20140408/#4_PET Brain  & Skull/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/N-Staffs_02.nii");
+close();
+
+File.openSequence("D:/Hoffman/_N-Staffs/DICOM/20140408/#4_PET Brain  & Skull/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/N-Staffs_03.nii");
+close();
+
+File.openSequence("D:/Hoffman/_N-Staffs/DICOM/20140408/#4_PET Brain  & Skull/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/N-Staffs_04.nii");
+close();
+
+File.openSequence("D:/Hoffman/_N-Staffs/DICOM/20140408/#4_PET Brain  & Skull/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/N-Staffs_05.nii");
+close();
+
+File.openSequence("D:/Hoffman/_N-Staffs/DICOM/20140408/#4_PET Brain  & Skull/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/N-Staffs_06.nii");
+close();
+
+File.openSequence("D:/Hoffman/_N-Staffs/DICOM/20140408/#5_PET Brain/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/N-Staffs_07.nii");
+close();
+
+File.openSequence("D:/Hoffman/_N-Staffs/DICOM/20140408/#5_PET Brain/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/N-Staffs_08.nii");
+close();
+
+File.openSequence("D:/Hoffman/_N-Staffs/DICOM/20140408/#5_PET Brain/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/N-Staffs_09.nii");
+close();
+
+File.openSequence("D:/Hoffman/_N-Staffs/DICOM/20140408/#5_PET Brain/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/N-Staffs_10.nii");
+close();
+
+File.openSequence("D:/Hoffman/_N-Staffs/DICOM/20140408/#5_PET Brain/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/N-Staffs_11.nii");
+close();
+
+File.openSequence("D:/Hoffman/_N-Staffs/DICOM/20140408/#5_PET Brain/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/N-Staffs_12.nii");
+close();
+
+File.openSequence("D:/Hoffman/_N-Staffs/DICOM/20140408/#5_PET Brain OSEM  & Skull/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/N-Staffs_13.nii");
+close();
+
+File.openSequence("D:/Hoffman/_N-Staffs/DICOM/20140408/#5_PET Brain OSEM  & Skull/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/N-Staffs_14.nii");
+close();
+
+File.openSequence("D:/Hoffman/_N-Staffs/DICOM/20140408/#5_PET Brain OSEM  & Skull/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/N-Staffs_15.nii");
+close();
+
+File.openSequence("D:/Hoffman/_N-Staffs/DICOM/20140408/#5_PET Brain OSEM  & Skull/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/N-Staffs_16.nii");
+close();
+
+File.openSequence("D:/Hoffman/_N-Staffs/DICOM/20140408/#5_PET Brain OSEM  & Skull/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/N-Staffs_17.nii");
+close();
+
+File.openSequence("D:/Hoffman/_N-Staffs/DICOM/20140408/#5_PET Brain OSEM  & Skull/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/N-Staffs_18.nii");
+close();
+
+File.openSequence("D:/Hoffman/_N-Staffs/DICOM/20140408/#6_PET Brain OSEM/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/N-Staffs_19.nii");
+close();
+
+File.openSequence("D:/Hoffman/_N-Staffs/DICOM/20140408/#6_PET Brain OSEM/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/N-Staffs_20.nii");
+close();
+
+File.openSequence("D:/Hoffman/_N-Staffs/DICOM/20140408/#6_PET Brain OSEM/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/N-Staffs_21.nii");
+close();
+
+File.openSequence("D:/Hoffman/_N-Staffs/DICOM/20140408/#6_PET Brain OSEM/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/N-Staffs_22.nii");
+close();
+
+File.openSequence("D:/Hoffman/_N-Staffs/DICOM/20140408/#6_PET Brain OSEM/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/N-Staffs_23.nii");
+close();
+
+File.openSequence("D:/Hoffman/_N-Staffs/DICOM/20140408/#6_PET Brain OSEM/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/N-Staffs_24.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Newcastle/Local_Dynamic/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Newcastle_01.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Newcastle/Local_Dynamic/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Newcastle_02.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Newcastle/Local_Dynamic/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Newcastle_03.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Newcastle/Local_Dynamic/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Newcastle_04.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Newcastle/Local_Dynamic/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Newcastle_05.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Newcastle/Local_Dynamic/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Newcastle_06.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Newcastle/UK AC PET/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Newcastle_07.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Newcastle/UK AC PET/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Newcastle_08.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Newcastle/UK AC PET/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Newcastle_09.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Newcastle/UK AC PET/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Newcastle_10.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Newcastle/UK AC PET/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Newcastle_11.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Newcastle/UK AC PET/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Newcastle_12.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Newcastle/z_CT_same_as_UK AC PET/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Newcastle_13.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Newcastle/z_CT_same_as_UK AC PET/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Newcastle_14.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Newcastle/z_CT_same_as_UK AC PET/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Newcastle_15.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Newcastle/z_CT_same_as_UK AC PET/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Newcastle_16.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Newcastle/z_CT_same_as_UK AC PET/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Newcastle_17.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Newcastle/z_CT_same_as_UK AC PET/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Newcastle_18.nii");
+close();
+
+File.openSequence("D:/Hoffman/_RoyalSurrey/withoutSkull/PET_BRAIN_LOCALPETTOURCT_0013/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/RoyalSurrey_01.nii");
+close();
+
+File.openSequence("D:/Hoffman/_RoyalSurrey/withoutSkull/PET_BRAIN_LOCALPETTOURCT_0013/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/RoyalSurrey_02.nii");
+close();
+
+File.openSequence("D:/Hoffman/_RoyalSurrey/withoutSkull/PET_BRAIN_LOCALPETTOURCT_0013/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/RoyalSurrey_03.nii");
+close();
+
+File.openSequence("D:/Hoffman/_RoyalSurrey/withoutSkull/PET_BRAIN_LOCALPETTOURCT_0013/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/RoyalSurrey_04.nii");
+close();
+
+File.openSequence("D:/Hoffman/_RoyalSurrey/withoutSkull/PET_BRAIN_LOCALPETTOURCT_0013/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/RoyalSurrey_05.nii");
+close();
+
+File.openSequence("D:/Hoffman/_RoyalSurrey/withoutSkull/PET_BRAIN_LOCALPETTOURCT_0013/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/RoyalSurrey_06.nii");
+close();
+
+File.openSequence("D:/Hoffman/_RoyalSurrey/withoutSkull/PET_BRAIN_TOURPETTOURCT_0011/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/RoyalSurrey_07.nii");
+close();
+
+File.openSequence("D:/Hoffman/_RoyalSurrey/withoutSkull/PET_BRAIN_TOURPETTOURCT_0011/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/RoyalSurrey_08.nii");
+close();
+
+File.openSequence("D:/Hoffman/_RoyalSurrey/withoutSkull/PET_BRAIN_TOURPETTOURCT_0011/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/RoyalSurrey_09.nii");
+close();
+
+File.openSequence("D:/Hoffman/_RoyalSurrey/withoutSkull/PET_BRAIN_TOURPETTOURCT_0011/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/RoyalSurrey_10.nii");
+close();
+
+File.openSequence("D:/Hoffman/_RoyalSurrey/withoutSkull/PET_BRAIN_TOURPETTOURCT_0011/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/RoyalSurrey_11.nii");
+close();
+
+File.openSequence("D:/Hoffman/_RoyalSurrey/withoutSkull/PET_BRAIN_TOURPETTOURCT_0011/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/RoyalSurrey_12.nii");
+close();
+
+File.openSequence("D:/Hoffman/_RoyalSurrey/withSkull/PET_BRAIN_LOCALPETTOURCT_0015/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/RoyalSurrey_13.nii");
+close();
+
+File.openSequence("D:/Hoffman/_RoyalSurrey/withSkull/PET_BRAIN_LOCALPETTOURCT_0015/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/RoyalSurrey_14.nii");
+close();
+
+File.openSequence("D:/Hoffman/_RoyalSurrey/withSkull/PET_BRAIN_LOCALPETTOURCT_0015/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/RoyalSurrey_15.nii");
+close();
+
+File.openSequence("D:/Hoffman/_RoyalSurrey/withSkull/PET_BRAIN_LOCALPETTOURCT_0015/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/RoyalSurrey_16.nii");
+close();
+
+File.openSequence("D:/Hoffman/_RoyalSurrey/withSkull/PET_BRAIN_LOCALPETTOURCT_0015/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/RoyalSurrey_17.nii");
+close();
+
+File.openSequence("D:/Hoffman/_RoyalSurrey/withSkull/PET_BRAIN_LOCALPETTOURCT_0015/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/RoyalSurrey_18.nii");
+close();
+
+File.openSequence("D:/Hoffman/_RoyalSurrey/withSkull/PET_BRAIN_TOURPETTOURCT_0017/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/RoyalSurrey_19.nii");
+close();
+
+File.openSequence("D:/Hoffman/_RoyalSurrey/withSkull/PET_BRAIN_TOURPETTOURCT_0017/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/RoyalSurrey_20.nii");
+close();
+
+File.openSequence("D:/Hoffman/_RoyalSurrey/withSkull/PET_BRAIN_TOURPETTOURCT_0017/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/RoyalSurrey_21.nii");
+close();
+
+File.openSequence("D:/Hoffman/_RoyalSurrey/withSkull/PET_BRAIN_TOURPETTOURCT_0017/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/RoyalSurrey_22.nii");
+close();
+
+File.openSequence("D:/Hoffman/_RoyalSurrey/withSkull/PET_BRAIN_TOURPETTOURCT_0017/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/RoyalSurrey_23.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Sheffield/sheffield_hoffman/PET_noskull/S888101/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Sheffield_01.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Sheffield/sheffield_hoffman/PET_noskull/S888101/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Sheffield_02.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Sheffield/sheffield_hoffman/PET_noskull/S888101/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Sheffield_03.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Sheffield/sheffield_hoffman/PET_noskull/S888101/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Sheffield_04.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Sheffield/sheffield_hoffman/PET_noskull/S888101/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Sheffield_05.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Sheffield/sheffield_hoffman/PET_noskull/S888101/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Sheffield_06.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Sheffield/sheffield_hoffman/PET_noskull/S907700/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Sheffield_07.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Sheffield/sheffield_hoffman/PET_noskull/S907700/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Sheffield_08.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Sheffield/sheffield_hoffman/PET_noskull/S907700/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Sheffield_09.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Sheffield/sheffield_hoffman/PET_noskull/S907700/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Sheffield_10.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Sheffield/sheffield_hoffman/PET_noskull/S907700/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Sheffield_11.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Sheffield/sheffield_hoffman/PET_noskull/S907700/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Sheffield_12.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Sheffield/sheffield_hoffman/PET_withskull/S12220/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Sheffield_13.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Sheffield/sheffield_hoffman/PET_withskull/S12220/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Sheffield_14.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Sheffield/sheffield_hoffman/PET_withskull/S12220/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Sheffield_15.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Sheffield/sheffield_hoffman/PET_withskull/S12220/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Sheffield_16.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Sheffield/sheffield_hoffman/PET_withskull/S12220/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Sheffield_17.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Sheffield/sheffield_hoffman/PET_withskull/S12220/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Sheffield_18.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Sheffield/sheffield_hoffman/PET_withskull/S12420/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Sheffield_19.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Sheffield/sheffield_hoffman/PET_withskull/S12420/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Sheffield_20.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Sheffield/sheffield_hoffman/PET_withskull/S12420/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Sheffield_21.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Sheffield/sheffield_hoffman/PET_withskull/S12420/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Sheffield_22.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Sheffield/sheffield_hoffman/PET_withskull/S12420/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Sheffield_23.nii");
+close();
+
+File.openSequence("D:/Hoffman/_Sheffield/sheffield_hoffman/PET_withskull/S12420/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/Sheffield_24.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5HOFFMANNOSKULLVPHDDYN_Std/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_01.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5HOFFMANNOSKULLVPHDDYN_Std/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_02.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5HOFFMANNOSKULLVPHDDYN_Std/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_03.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5HOFFMANNOSKULLVPHDDYN_Std/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_04.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5HOFFMANNOSKULLVPHDDYN_Std/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_05.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5HOFFMANNOSKULLVPHDDYN_Std/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_06.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5PETFDGBRAINVPFXDYN/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_07.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5PETFDGBRAINVPFXDYN/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_08.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5PETFDGBRAINVPFXDYN/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_09.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5PETFDGBRAINVPFXDYN/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_10.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5PETFDGBRAINVPFXDYN/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_11.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5PETFDGBRAINVPFXDYN/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_12.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5PETFDGBRAINVPFXDYN_Extra/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_13.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5PETFDGBRAINVPFXDYN_Extra/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_14.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5PETFDGBRAINVPFXDYN_Extra/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_15.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5PETFDGBRAINVPFXDYN_Extra/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_16.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5PETFDGBRAINVPFXDYN_Extra/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_17.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5PETFDGBRAINVPFXDYN_Extra/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_18.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5PETFDGBRAINVPFXSDYN/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_19.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5PETFDGBRAINVPFXSDYN/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_20.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5PETFDGBRAINVPFXSDYN/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_21.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5PETFDGBRAINVPFXSDYN/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_22.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5PETFDGBRAINVPFXSDYN/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_23.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5PETFDGBRAINVPFXSDYN/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_24.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5PETFDGBRAINVPFXSDYN_Local/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_25.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5PETFDGBRAINVPFXSDYN_Local/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_26.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5PETFDGBRAINVPFXSDYN_Local/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_27.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5PETFDGBRAINVPFXSDYN_Local/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_28.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5PETFDGBRAINVPFXSDYN_Local/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_29.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_NOSKULL/D5PETFDGBRAINVPFXSDYN_Local/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_30.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5HOFFMAN_SKULLVPHDDYN_Std/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_31.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5HOFFMAN_SKULLVPHDDYN_Std/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_32.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5HOFFMAN_SKULLVPHDDYN_Std/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_33.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5HOFFMAN_SKULLVPHDDYN_Std/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_34.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5HOFFMAN_SKULLVPHDDYN_Std/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_35.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5HOFFMAN_SKULLVPHDDYN_Std/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_36.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5PETBRAINVPFXDYN/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_37.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5PETBRAINVPFXDYN/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_38.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5PETBRAINVPFXDYN/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_39.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5PETBRAINVPFXDYN/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_40.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5PETBRAINVPFXDYN/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_41.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5PETBRAINVPFXDYN/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_42.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5PETBRAINVPFXDYN_Extra/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_43.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5PETBRAINVPFXDYN_Extra/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_44.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5PETBRAINVPFXDYN_Extra/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_45.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5PETBRAINVPFXDYN_Extra/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_46.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5PETBRAINVPFXDYN_Extra/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_47.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5PETBRAINVPFXDYN_Extra/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_48.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5PETBRAINVPFXSDYN/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_49.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5PETBRAINVPFXSDYN/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_50.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5PETBRAINVPFXSDYN/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_51.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5PETBRAINVPFXSDYN/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_52.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5PETBRAINVPFXSDYN/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_53.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5PETBRAINVPFXSDYN/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_54.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5PETBRAINVPFXSDYN_Local/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_55.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5PETBRAINVPFXSDYN_Local/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_56.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5PETBRAINVPFXSDYN_Local/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_57.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5PETBRAINVPFXSDYN_Local/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_58.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5PETBRAINVPFXSDYN_Local/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_59.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/D5_HOFFMAN_SKULL/D5PETBRAINVPFXSDYN_Local/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_60.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/St Thomas VPHD/VPHD/WITH SKULL/D5HOFFMAN_SKULLVPHDDYN/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_61.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/St Thomas VPHD/VPHD/WITH SKULL/D5HOFFMAN_SKULLVPHDDYN/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_62.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/St Thomas VPHD/VPHD/WITH SKULL/D5HOFFMAN_SKULLVPHDDYN/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_63.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/St Thomas VPHD/VPHD/WITH SKULL/D5HOFFMAN_SKULLVPHDDYN/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_64.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/St Thomas VPHD/VPHD/WITH SKULL/D5HOFFMAN_SKULLVPHDDYN/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_65.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/St Thomas VPHD/VPHD/WITH SKULL/D5HOFFMAN_SKULLVPHDDYN/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_66.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/St Thomas VPHD/VPHD/WITHOUT SKULL/D5HOFFMANNOSKULLVPHDDYN/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_67.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/St Thomas VPHD/VPHD/WITHOUT SKULL/D5HOFFMANNOSKULLVPHDDYN/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_68.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/St Thomas VPHD/VPHD/WITHOUT SKULL/D5HOFFMANNOSKULLVPHDDYN/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_69.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/St Thomas VPHD/VPHD/WITHOUT SKULL/D5HOFFMANNOSKULLVPHDDYN/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_70.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/St Thomas VPHD/VPHD/WITHOUT SKULL/D5HOFFMANNOSKULLVPHDDYN/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_71.nii");
+close();
+
+File.openSequence("D:/Hoffman/_StThomas/St Thomas VPHD/VPHD/WITHOUT SKULL/D5HOFFMANNOSKULLVPHDDYN/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/StThomas_72.nii");
+close();
+
+File.openSequence("D:/Hoffman/_UCL-UCLH/DST_HOFFMAN_NOSKULL/PET_DYN_6times5MIN/1.2.840.113619.2.55.3.2349523240.438.1378968805.817/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/UCL-UCLH_01.nii");
+close();
+
+File.openSequence("D:/Hoffman/_UCL-UCLH/DST_HOFFMAN_NOSKULL/PET_DYN_6times5MIN/1.2.840.113619.2.55.3.2349523240.438.1378968805.817/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/UCL-UCLH_02.nii");
+close();
+
+File.openSequence("D:/Hoffman/_UCL-UCLH/DST_HOFFMAN_NOSKULL/PET_DYN_6times5MIN/1.2.840.113619.2.55.3.2349523240.438.1378968805.817/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/UCL-UCLH_03.nii");
+close();
+
+File.openSequence("D:/Hoffman/_UCL-UCLH/DST_HOFFMAN_NOSKULL/PET_DYN_6times5MIN/1.2.840.113619.2.55.3.2349523240.438.1378968805.817/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/UCL-UCLH_04.nii");
+close();
+
+File.openSequence("D:/Hoffman/_UCL-UCLH/DST_HOFFMAN_NOSKULL/PET_DYN_6times5MIN/1.2.840.113619.2.55.3.2349523240.438.1378968805.817/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/UCL-UCLH_05.nii");
+close();
+
+File.openSequence("D:/Hoffman/_UCL-UCLH/DST_HOFFMAN_NOSKULL/PET_DYN_6times5MIN/1.2.840.113619.2.55.3.2349523240.438.1378968805.817/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/UCL-UCLH_06.nii");
+close();
+
+File.openSequence("D:/Hoffman/_UCL-UCLH/DST_HOFFMAN_SKULL/PET_DYN_6times5MIN/1.2.840.113619.2.55.3.2349523240.438.1378968805.664/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/UCL-UCLH_07.nii");
+close();
+
+File.openSequence("D:/Hoffman/_UCL-UCLH/DST_HOFFMAN_SKULL/PET_DYN_6times5MIN/1.2.840.113619.2.55.3.2349523240.438.1378968805.664/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/UCL-UCLH_08.nii");
+close();
+
+File.openSequence("D:/Hoffman/_UCL-UCLH/DST_HOFFMAN_SKULL/PET_DYN_6times5MIN/1.2.840.113619.2.55.3.2349523240.438.1378968805.664/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/UCL-UCLH_09.nii");
+close();
+
+File.openSequence("D:/Hoffman/_UCL-UCLH/DST_HOFFMAN_SKULL/PET_DYN_6times5MIN/1.2.840.113619.2.55.3.2349523240.438.1378968805.664/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/UCL-UCLH_10.nii");
+close();
+
+File.openSequence("D:/Hoffman/_UCL-UCLH/DST_HOFFMAN_SKULL/PET_DYN_6times5MIN/1.2.840.113619.2.55.3.2349523240.438.1378968805.664/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/UCL-UCLH_11.nii");
+close();
+
+File.openSequence("D:/Hoffman/_UCL-UCLH/DST_HOFFMAN_SKULL/PET_DYN_6times5MIN/1.2.840.113619.2.55.3.2349523240.438.1378968805.664/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/UCL-UCLH_12.nii");
+close();
+
+File.openSequence("D:/Hoffman/_UCL-UCLH/DVCT_HOFFMAN_NOSKULL/PET_DYN_6times5MIN/1.2.840.113619.2.55.3.2349523752.781.1378969999.87/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/UCL-UCLH_13.nii");
+close();
+
+File.openSequence("D:/Hoffman/_UCL-UCLH/DVCT_HOFFMAN_NOSKULL/PET_DYN_6times5MIN/1.2.840.113619.2.55.3.2349523752.781.1378969999.87/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/UCL-UCLH_14.nii");
+close();
+
+File.openSequence("D:/Hoffman/_UCL-UCLH/DVCT_HOFFMAN_NOSKULL/PET_DYN_6times5MIN/1.2.840.113619.2.55.3.2349523752.781.1378969999.87/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/UCL-UCLH_15.nii");
+close();
+
+File.openSequence("D:/Hoffman/_UCL-UCLH/DVCT_HOFFMAN_NOSKULL/PET_DYN_6times5MIN/1.2.840.113619.2.55.3.2349523752.781.1378969999.87/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/UCL-UCLH_16.nii");
+close();
+
+File.openSequence("D:/Hoffman/_UCL-UCLH/DVCT_HOFFMAN_NOSKULL/PET_DYN_6times5MIN/1.2.840.113619.2.55.3.2349523752.781.1378969999.87/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/UCL-UCLH_17.nii");
+close();
+
+File.openSequence("D:/Hoffman/_UCL-UCLH/DVCT_HOFFMAN_NOSKULL/PET_DYN_6times5MIN/1.2.840.113619.2.55.3.2349523752.781.1378969999.87/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/UCL-UCLH_18.nii");
+close();
+
+File.openSequence("D:/Hoffman/_UCL-UCLH/DVCT_HOFFMAN_SKULL/PET_DYN_6times5MIN/1.2.840.113619.2.55.3.2349523752.781.1378969998.980/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/UCL-UCLH_19.nii");
+close();
+
+File.openSequence("D:/Hoffman/_UCL-UCLH/DVCT_HOFFMAN_SKULL/PET_DYN_6times5MIN/1.2.840.113619.2.55.3.2349523752.781.1378969998.980/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/UCL-UCLH_20.nii");
+close();
+
+File.openSequence("D:/Hoffman/_UCL-UCLH/DVCT_HOFFMAN_SKULL/PET_DYN_6times5MIN/1.2.840.113619.2.55.3.2349523752.781.1378969998.980/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/UCL-UCLH_21.nii");
+close();
+
+File.openSequence("D:/Hoffman/_UCL-UCLH/DVCT_HOFFMAN_SKULL/PET_DYN_6times5MIN/1.2.840.113619.2.55.3.2349523752.781.1378969998.980/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/UCL-UCLH_22.nii");
+close();
+
+File.openSequence("D:/Hoffman/_UCL-UCLH/DVCT_HOFFMAN_SKULL/PET_DYN_6times5MIN/1.2.840.113619.2.55.3.2349523752.781.1378969998.980/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/UCL-UCLH_23.nii");
+close();
+
+File.openSequence("D:/Hoffman/_UCL-UCLH/DVCT_HOFFMAN_SKULL/PET_DYN_6times5MIN/1.2.840.113619.2.55.3.2349523752.781.1378969998.980/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/UCL-UCLH_24.nii");
+close();
+
+File.openSequence("D:/Hoffman/_WMIC/Hoffman_NoSkull_2014_06_09/6x5mm_CTAC_3x21_128_z2-7_4mm (AC)/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/WMIC_01.nii");
+close();
+
+File.openSequence("D:/Hoffman/_WMIC/Hoffman_NoSkull_2014_06_09/6x5mm_CTAC_3x21_128_z2-7_4mm (AC)/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/WMIC_02.nii");
+close();
+
+File.openSequence("D:/Hoffman/_WMIC/Hoffman_NoSkull_2014_06_09/6x5mm_CTAC_3x21_128_z2-7_4mm (AC)/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/WMIC_03.nii");
+close();
+
+File.openSequence("D:/Hoffman/_WMIC/Hoffman_NoSkull_2014_06_09/6x5mm_CTAC_3x21_128_z2-7_4mm (AC)/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/WMIC_04.nii");
+close();
+
+File.openSequence("D:/Hoffman/_WMIC/Hoffman_NoSkull_2014_06_09/6x5mm_CTAC_3x21_128_z2-7_4mm (AC)/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/WMIC_05.nii");
+close();
+
+File.openSequence("D:/Hoffman/_WMIC/Hoffman_NoSkull_2014_06_09/6x5mm_CTAC_3x21_128_z2-7_4mm (AC)/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/WMIC_06.nii");
+close();
+
+File.openSequence("D:/Hoffman/_WMIC/Hoffman_Skull_2014_06_09/6x5mm_CTAC_3x21_128_z2-7_4mm (AC)/Frame1");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/WMIC_07.nii");
+close();
+
+File.openSequence("D:/Hoffman/_WMIC/Hoffman_Skull_2014_06_09/6x5mm_CTAC_3x21_128_z2-7_4mm (AC)/Frame2");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/WMIC_08.nii");
+close();
+
+File.openSequence("D:/Hoffman/_WMIC/Hoffman_Skull_2014_06_09/6x5mm_CTAC_3x21_128_z2-7_4mm (AC)/Frame3");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/WMIC_09.nii");
+close();
+
+File.openSequence("D:/Hoffman/_WMIC/Hoffman_Skull_2014_06_09/6x5mm_CTAC_3x21_128_z2-7_4mm (AC)/Frame4");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/WMIC_10.nii");
+close();
+
+File.openSequence("D:/Hoffman/_WMIC/Hoffman_Skull_2014_06_09/6x5mm_CTAC_3x21_128_z2-7_4mm (AC)/Frame5");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/WMIC_11.nii");
+close();
+
+File.openSequence("D:/Hoffman/_WMIC/Hoffman_Skull_2014_06_09/6x5mm_CTAC_3x21_128_z2-7_4mm (AC)/Frame6");
+run("NIfTI-1", "save=D:/Hoffman/NiftiImages_PET/WMIC_12.nii");
+close();
