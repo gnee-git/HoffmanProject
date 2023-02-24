@@ -70,8 +70,13 @@ def get_dcm_matrix_size(dcm_file):
     if os.path.isdir(dcm_file):
         dcm_file = os.path.join(dcm_file,os.listdir(dcm_file)[0])
     hdr = dcm.dcmread(dcm_file)
-    return hdr.Rows,hdr.Columns,hdr.NumberOfSlices
-
+    if hasattr(hdr,"NumberOfSlices"):
+        return hdr.Rows,hdr.Columns,hdr.NumberOfSlices
+    else:
+        # z is the number of files in the folder
+        z = len(glob(os.path.join(os.path.dirname(dcm_file),"*")))
+        return hdr.Rows,hdr.Columns,z
+    
 def get_manufacturer(dcm_file):
     if os.path.isdir(dcm_file):
         dcm_file = os.path.join(dcm_file,os.listdir(dcm_file)[0])
